@@ -1,0 +1,26 @@
+{
+  "project": "Я и будущая профессия: Мир профессий",
+  "source": "WikiData SPARQL endpoint",
+  "concepts": [
+    {
+      "concept": "http://www.wikidata.org/entity/Q268592",
+      "conceptLabel": "отрасль экономики",
+      "description": "группа компаний, производящих однородные товары или услуги"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q829183",
+      "conceptLabel": "призвание",
+      "description": "внутреннее влечение к какому-нибудь делу, какой-нибудь профессии"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q1047113",
+      "conceptLabel": "специальность",
+      "description": "область деятельности в рамках другой области деятельности"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q28640",
+      "conceptLabel": "профессия",
+      "description": "род занятий, требующий специальной подготовки"
+    }
+  ]
+}

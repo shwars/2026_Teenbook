@@ -1,0 +1,26 @@
+{
+  "project": "Я и будущая профессия: Путь к профессии",
+  "source": "WikiData SPARQL endpoint",
+  "concepts": [
+    {
+      "concept": "http://www.wikidata.org/entity/Q967647",
+      "conceptLabel": "наставничество",
+      "description": "отношения, в которых опытный или более сведущий человек помогает менее опытному или менее сведущему усвоить определенные компетенции"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q4439145",
+      "conceptLabel": "стажировка",
+      "description": "деятельность по приобретению опыта работы или повышение квалификации по специальности, а также работа по специальности"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q741939",
+      "conceptLabel": "профессиональная ориентация",
+      "description": ""
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q6869278",
+      "conceptLabel": "профессионально-техническое образование",
+      "description": ""
+    }
+  ]
+}

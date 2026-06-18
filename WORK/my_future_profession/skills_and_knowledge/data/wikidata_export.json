@@ -1,0 +1,26 @@
+{
+  "project": "Я и будущая профессия: Навыки и знания",
+  "source": "WikiData SPARQL endpoint",
+  "concepts": [
+    {
+      "concept": "http://www.wikidata.org/entity/Q205961",
+      "conceptLabel": "умение",
+      "description": "опытное знание, условие для деятельности"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q8434",
+      "conceptLabel": "образование",
+      "description": "система обучения и приобретённые знания"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q467677",
+      "conceptLabel": "одарённость",
+      "description": ""
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q15910354",
+      "conceptLabel": "гибкие навыки",
+      "description": ""
+    }
+  ]
+}

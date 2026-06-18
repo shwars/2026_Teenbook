@@ -1,0 +1,36 @@
+{
+  "project": "Я и будущая профессия: Работа и деньги",
+  "source": "WikiData SPARQL endpoint",
+  "concepts": [
+    {
+      "concept": "http://www.wikidata.org/entity/Q268378",
+      "conceptLabel": "труд",
+      "description": "целенаправленная созидательная деятельность"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q282049",
+      "conceptLabel": "карьера",
+      "description": "успешное продвижение в области служебной, социальной, научной и другой деятельности"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q850171",
+      "conceptLabel": "собеседование",
+      "description": "обсуждение поступления на работу"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q950511",
+      "conceptLabel": "резюме",
+      "description": "описание жизни и навыков для устройства на работу"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q2266417",
+      "conceptLabel": "занятость",
+      "description": "деятельность, связанная с получением дохода"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q6821213",
+      "conceptLabel": "зарплата",
+      "description": "вознаграждение за труд в зависимости от квалификации работника, сложности, количества, качества и условий выполняемой работы"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "project": "Я и будущая профессия: Профессии будущего",
+  "source": "WikiData SPARQL endpoint",
+  "concepts": [
+    {
+      "concept": "http://www.wikidata.org/entity/Q215279",
+      "conceptLabel": "фрилансер",
+      "description": "свободный или наёмный работник (работница), чаще всего работающий по Интернету"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q3908516",
+      "conceptLabel": "предпринимательство",
+      "description": "экономическая деятельность по удовлетворению потребительского спроса"
+    },
+    {
+      "concept": "http://www.wikidata.org/entity/Q11660",
+      "conceptLabel": "искусственный интеллект",
+      "description": "наука и технология создания интеллектуальных машин, особенно интеллектуальных компьютерных программ"
+    }
+  ]
+}

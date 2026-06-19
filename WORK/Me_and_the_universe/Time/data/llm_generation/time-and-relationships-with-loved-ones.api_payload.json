@@ -1,0 +1,15 @@
+{
+  "model": "manual-llm-draft-compatible",
+  "temperature": 0.4,
+  "messages": [
+    {
+      "role": "system",
+      "content": "You write clear Russian encyclopedia articles for teenagers."
+    },
+    {
+      "role": "user",
+      "content": "Generate the final Markdown article for a teen encyclopedia in Russian.\n\nStyle requirements:\n- explain the topic in simple, friendly Russian for a teenager;\n- do not mention that the text was written by an AI model;\n- do not put QID, URI, API, JSON or technical Wikidata details into the main body;\n- use clear level-2 sections;\n- add natural internal links to related articles;\n- avoid frightening tone, medical diagnosis claims, and invented statistics.\n\nExpected structure:\n1. A level-1 heading.\n2. A short introduction.\n3. Several meaningful sections.\n4. A section with the main takeaway.\n5. Sections for related articles, useful Wikidata concepts, and navigation.\n\nArticle context:\n{\n  \"section_title\": \"Раздел 9. Я и Вселенная\",\n  \"topic_title\": \"Время\",\n  \"topic_slug\": \"Time\",\n  \"topic_description\": \"Тема о том, как человек ощущает время, взрослеет, планирует будущее и распределяет внимание между делами и близкими.\",\n  \"article_slug\": \"time-and-relationships-with-loved-ones\",\n  \"article_title\": \"Время и отношения с близкими\",\n  \"article_summary\": \"Почему отношения строятся не только словами, но и временем, вниманием и совместными воспоминаниями.\",\n  \"keywords\": [\n    \"отношения\",\n    \"близкие\",\n    \"дружба\",\n    \"семья\",\n    \"качественное время\"\n  ],\n  \"aliases\": [\n    \"время с близкими\",\n    \"качественное время\",\n    \"отношения и время\"\n  ],\n  \"related_articles\": [\n    \"how-not-to-waste-time\",\n    \"living-in-the-past-future-or-present\",\n    \"childhood-ends-what-am-i-losing\"\n  ],\n  \"wikidata_seed_labels\": [\n    \"interpersonal relationship\",\n    \"memory\",\n    \"present\"\n  ],\n  \"concept_graph_nodes\": [\n    {\n      \"id\": \"present\",\n      \"label\": \"настоящее\",\n      \"kind\": \"temporal\",\n      \"description\": \"Момент, в котором человек реально действует и общается.\",\n      \"article_refs\": [\n        \"living-in-the-past-future-or-present\",\n        \"time-and-relationships-with-loved-ones\"\n      ]\n    },\n    {\n      \"id\": \"relationships\",\n      \"label\": \"отношения с близкими\",\n      \"kind\": \"social\",\n      \"description\": \"Связи с семьёй, друзьями и значимыми людьми.\",\n      \"article_refs\": [\n        \"time-and-relationships-with-loved-ones\"\n      ]\n    },\n    {\n      \"id\": \"quality_time\",\n      \"label\": \"качественное время\",\n      \"kind\": \"social\",\n      \"description\": \"Совместное время, в котором есть внимание и присутствие.\",\n      \"article_refs\": [\n        \"how-not-to-waste-time\",\n        \"time-and-relationships-with-loved-ones\"\n      ]\n    }\n  ]\n}"
+    }
+  ],
+  "note": "Saved for lab reproducibility. The final text is stored in WEB and duplicated in generated.md."
+}

@@ -1,0 +1,50 @@
+%% Исходник онтологии подтемы "Время" в формате Mermaid.
+%% PNG-версия лежит рядом: ontology.png.
+flowchart TB
+    time["Время"]
+
+    objective["Объективное время<br/>часы, календарь, длительность"]
+    subjective["Субъективное время<br/>ощущение скорости"]
+    perspective["Временная перспектива<br/>прошлое, настоящее, будущее"]
+
+    attention["Внимание<br/>и вовлеченность"]
+    emotion["Эмоции<br/>тревога, скука, интерес"]
+    memory["Память<br/>и воспоминания"]
+
+    past["Прошлое<br/>опыт и ностальгия"]
+    present["Настоящее<br/>осознанное действие"]
+    future["Будущее<br/>планы и тревога"]
+    relationships["Отношения<br/>с близкими"]
+
+    childhood["Детство<br/>и взросление"]
+    planning["Планирование<br/>маленькие шаги"]
+    procrastination["Прокрастинация<br/>избегание неприятных чувств"]
+    quality["Качественное время<br/>присутствие рядом"]
+
+    time --> objective
+    time --> subjective
+    time --> perspective
+    subjective --> attention
+    subjective --> emotion
+    subjective --> memory
+    perspective --> past
+    perspective --> present
+    perspective --> future
+    past --> childhood
+    present --> planning
+    future --> procrastination
+    memory --> relationships
+    relationships --> quality
+    planning --> quality
+
+    classDef root fill:#d7e6f8,stroke:#4f6f91,color:#1f2937,stroke-width:2px;
+    classDef base fill:#e4f0fb,stroke:#4f6f91,color:#1f2937,stroke-width:2px;
+    classDef factor fill:#e4f4eb,stroke:#4f6f91,color:#1f2937,stroke-width:2px;
+    classDef life fill:#fff6df,stroke:#4f6f91,color:#1f2937,stroke-width:2px;
+    classDef result fill:#f7e5eb,stroke:#4f6f91,color:#1f2937,stroke-width:2px;
+
+    class time root;
+    class objective,subjective,perspective base;
+    class attention,emotion,memory factor;
+    class past,present,future,relationships life;
+    class childhood,planning,procrastination,quality result;

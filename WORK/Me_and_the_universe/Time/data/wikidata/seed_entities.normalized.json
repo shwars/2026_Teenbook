@@ -1,0 +1,68 @@
+[
+  {
+    "item": "http://www.wikidata.org/entity/Q330104",
+    "itemQid": "Q330104",
+    "itemLabel": "Прокрастинация",
+    "itemDescription": "постоянное откладывание дел"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q344",
+    "itemQid": "Q344",
+    "itemLabel": "будущее",
+    "itemDescription": "часть линии времени, множество событий, которые ещё не произошли, но произойдут"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11471",
+    "itemQid": "Q11471",
+    "itemLabel": "время",
+    "itemDescription": "форма протекания физических и психических процессов"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q276258",
+    "itemQid": "Q276258",
+    "itemLabel": "детство",
+    "itemDescription": "ранний период жизни человека"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q223642",
+    "itemQid": "Q223642",
+    "itemLabel": "межличностные отношения",
+    "itemDescription": "strong, deep, or close association or acquaintance between two or more people"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q193168",
+    "itemQid": "Q193168",
+    "itemLabel": "настоящее время",
+    "itemDescription": "часть линии времени"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q492",
+    "itemQid": "Q492",
+    "itemLabel": "память",
+    "itemDescription": "психическая функция и вид умственной деятельности для сохранения, накопления и воспроизведения информации"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q309100",
+    "itemQid": "Q309100",
+    "itemLabel": "планирование",
+    "itemDescription": "моделирование будущего"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q131774",
+    "itemQid": "Q131774",
+    "itemLabel": "подростковый возраст",
+    "itemDescription": "человек в подростковом возрасте"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q192630",
+    "itemQid": "Q192630",
+    "itemLabel": "прошедшее время",
+    "itemDescription": "множество событий, хронологически предшествующих данному моменту"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q355217",
+    "itemQid": "Q355217",
+    "itemLabel": "управление временем",
+    "itemDescription": "процедуры, помогающие обрабатывать незавершенные задачи и встречи в течение доступного периода времени"
+  }
+]

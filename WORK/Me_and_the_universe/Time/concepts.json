@@ -1,0 +1,376 @@
+{
+  "section": "Раздел 9. Я и Вселенная",
+  "section_slug": "Me_and_the_universe",
+  "topic": {
+    "slug": "Time",
+    "title": "Время",
+    "description": "Тема о том, как человек ощущает время, взрослеет, планирует будущее и распределяет внимание между делами и близкими.",
+    "status": "draft_ready",
+    "responsible": "Дронов Дмитрий Сергеевич",
+    "keywords": [
+      "время",
+      "прошлое",
+      "настоящее",
+      "будущее",
+      "память",
+      "планирование",
+      "отношения"
+    ],
+    "web_path": "WEB/Me_and_the_universe/Time",
+    "work_path": "WORK/Me_and_the_universe/Time"
+  },
+  "articles": [
+    {
+      "id": "why-time-flies-or-drags",
+      "slug": "why-time-flies-or-drags",
+      "title": "Почему время летит или тянется",
+      "summary": "Как внимание, эмоции, новизна и память меняют субъективное ощущение времени.",
+      "keywords": [
+        "субъективное время",
+        "внимание",
+        "скука",
+        "интерес",
+        "память"
+      ],
+      "aliases": [
+        "время летит",
+        "время тянется",
+        "ощущение времени"
+      ],
+      "web_path": "WEB/Me_and_the_universe/Time/concepts/why-time-flies-or-drags.md",
+      "related_articles": [
+        "childhood-ends-what-am-i-losing",
+        "how-not-to-waste-time",
+        "living-in-the-past-future-or-present"
+      ],
+      "wikidata_seed_labels": [
+        "time",
+        "memory",
+        "present"
+      ]
+    },
+    {
+      "id": "childhood-ends-what-am-i-losing",
+      "slug": "childhood-ends-what-am-i-losing",
+      "title": "Детство кончается — что я теряю",
+      "summary": "Почему взросление ощущается как потеря простоты и как сохранить важные части детского опыта.",
+      "keywords": [
+        "детство",
+        "подростковый возраст",
+        "взросление",
+        "ностальгия",
+        "память"
+      ],
+      "aliases": [
+        "конец детства",
+        "взросление",
+        "потеря детства"
+      ],
+      "web_path": "WEB/Me_and_the_universe/Time/concepts/childhood-ends-what-am-i-losing.md",
+      "related_articles": [
+        "why-time-flies-or-drags",
+        "living-in-the-past-future-or-present",
+        "time-and-relationships-with-loved-ones"
+      ],
+      "wikidata_seed_labels": [
+        "childhood",
+        "adolescence",
+        "memory"
+      ]
+    },
+    {
+      "id": "living-in-the-past-future-or-present",
+      "slug": "living-in-the-past-future-or-present",
+      "title": "Жить прошлым, будущим или настоящим",
+      "summary": "Как прошлое, настоящее и будущее помогают человеку, если не застревать только в одном из них.",
+      "keywords": [
+        "прошлое",
+        "настоящее",
+        "будущее",
+        "планирование",
+        "тревога"
+      ],
+      "aliases": [
+        "жить прошлым",
+        "жить настоящим",
+        "жить будущим"
+      ],
+      "web_path": "WEB/Me_and_the_universe/Time/concepts/living-in-the-past-future-or-present.md",
+      "related_articles": [
+        "childhood-ends-what-am-i-losing",
+        "how-not-to-waste-time",
+        "time-and-relationships-with-loved-ones"
+      ],
+      "wikidata_seed_labels": [
+        "past",
+        "present",
+        "future",
+        "planning"
+      ]
+    },
+    {
+      "id": "how-not-to-waste-time",
+      "slug": "how-not-to-waste-time",
+      "title": "Как не тратить время впустую",
+      "summary": "Как отличать отдых от автоматического избегания дел и строить планы маленькими шагами.",
+      "keywords": [
+        "тайм-менеджмент",
+        "планирование",
+        "прокрастинация",
+        "отдых",
+        "приоритеты"
+      ],
+      "aliases": [
+        "не тратить время",
+        "планировать время",
+        "прокрастинация"
+      ],
+      "web_path": "WEB/Me_and_the_universe/Time/concepts/how-not-to-waste-time.md",
+      "related_articles": [
+        "why-time-flies-or-drags",
+        "living-in-the-past-future-or-present",
+        "time-and-relationships-with-loved-ones"
+      ],
+      "wikidata_seed_labels": [
+        "time management",
+        "planning",
+        "procrastination"
+      ]
+    },
+    {
+      "id": "time-and-relationships-with-loved-ones",
+      "slug": "time-and-relationships-with-loved-ones",
+      "title": "Время и отношения с близкими",
+      "summary": "Почему отношения строятся не только словами, но и временем, вниманием и совместными воспоминаниями.",
+      "keywords": [
+        "отношения",
+        "близкие",
+        "дружба",
+        "семья",
+        "качественное время"
+      ],
+      "aliases": [
+        "время с близкими",
+        "качественное время",
+        "отношения и время"
+      ],
+      "web_path": "WEB/Me_and_the_universe/Time/concepts/time-and-relationships-with-loved-ones.md",
+      "related_articles": [
+        "how-not-to-waste-time",
+        "living-in-the-past-future-or-present",
+        "childhood-ends-what-am-i-losing"
+      ],
+      "wikidata_seed_labels": [
+        "interpersonal relationship",
+        "memory",
+        "present"
+      ]
+    }
+  ],
+  "concept_graph": {
+    "nodes": [
+      {
+        "id": "objective_time",
+        "label": "объективное время",
+        "kind": "physical",
+        "description": "Измеряемое время: часы, календарь, длительность.",
+        "article_refs": [
+          "why-time-flies-or-drags"
+        ]
+      },
+      {
+        "id": "subjective_time",
+        "label": "субъективное время",
+        "kind": "psychological",
+        "description": "Личное ощущение скорости и насыщенности времени.",
+        "article_refs": [
+          "why-time-flies-or-drags",
+          "childhood-ends-what-am-i-losing"
+        ]
+      },
+      {
+        "id": "attention",
+        "label": "внимание",
+        "kind": "cognitive",
+        "description": "То, куда направлены мысли и восприятие человека.",
+        "article_refs": [
+          "why-time-flies-or-drags",
+          "how-not-to-waste-time"
+        ]
+      },
+      {
+        "id": "memory",
+        "label": "память",
+        "kind": "cognitive",
+        "description": "Способ сохранять прошлый опыт и связывать события в историю.",
+        "article_refs": [
+          "why-time-flies-or-drags",
+          "childhood-ends-what-am-i-losing",
+          "living-in-the-past-future-or-present"
+        ]
+      },
+      {
+        "id": "childhood",
+        "label": "детство",
+        "kind": "life_stage",
+        "description": "Период жизни, который при взрослении становится источником воспоминаний и ностальгии.",
+        "article_refs": [
+          "childhood-ends-what-am-i-losing",
+          "why-time-flies-or-drags"
+        ]
+      },
+      {
+        "id": "past",
+        "label": "прошлое",
+        "kind": "temporal",
+        "description": "То, что уже произошло и стало опытом или воспоминанием.",
+        "article_refs": [
+          "childhood-ends-what-am-i-losing",
+          "living-in-the-past-future-or-present"
+        ]
+      },
+      {
+        "id": "present",
+        "label": "настоящее",
+        "kind": "temporal",
+        "description": "Момент, в котором человек реально действует и общается.",
+        "article_refs": [
+          "living-in-the-past-future-or-present",
+          "time-and-relationships-with-loved-ones"
+        ]
+      },
+      {
+        "id": "future",
+        "label": "будущее",
+        "kind": "temporal",
+        "description": "То, что ещё не произошло, но влияет на планы и тревогу.",
+        "article_refs": [
+          "living-in-the-past-future-or-present",
+          "how-not-to-waste-time"
+        ]
+      },
+      {
+        "id": "planning",
+        "label": "планирование",
+        "kind": "action",
+        "description": "Разделение будущих задач на понятные шаги.",
+        "article_refs": [
+          "living-in-the-past-future-or-present",
+          "how-not-to-waste-time"
+        ]
+      },
+      {
+        "id": "procrastination",
+        "label": "прокрастинация",
+        "kind": "behavior",
+        "description": "Откладывание дела из-за неприятных эмоций, страха или перегруза.",
+        "article_refs": [
+          "how-not-to-waste-time"
+        ]
+      },
+      {
+        "id": "relationships",
+        "label": "отношения с близкими",
+        "kind": "social",
+        "description": "Связи с семьёй, друзьями и значимыми людьми.",
+        "article_refs": [
+          "time-and-relationships-with-loved-ones"
+        ]
+      },
+      {
+        "id": "quality_time",
+        "label": "качественное время",
+        "kind": "social",
+        "description": "Совместное время, в котором есть внимание и присутствие.",
+        "article_refs": [
+          "how-not-to-waste-time",
+          "time-and-relationships-with-loved-ones"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "source": "objective_time",
+        "target": "subjective_time",
+        "relation": "отличается от",
+        "kind": "contrast"
+      },
+      {
+        "source": "attention",
+        "target": "subjective_time",
+        "relation": "изменяет ощущение",
+        "kind": "causal"
+      },
+      {
+        "source": "memory",
+        "target": "past",
+        "relation": "сохраняет",
+        "kind": "cognitive"
+      },
+      {
+        "source": "past",
+        "target": "childhood",
+        "relation": "содержит опыт",
+        "kind": "temporal"
+      },
+      {
+        "source": "future",
+        "target": "planning",
+        "relation": "требует",
+        "kind": "functional"
+      },
+      {
+        "source": "procrastination",
+        "target": "planning",
+        "relation": "мешает",
+        "kind": "psychological"
+      },
+      {
+        "source": "present",
+        "target": "quality_time",
+        "relation": "позволяет проживать",
+        "kind": "practical"
+      },
+      {
+        "source": "quality_time",
+        "target": "relationships",
+        "relation": "укрепляет",
+        "kind": "social"
+      },
+      {
+        "source": "memory",
+        "target": "relationships",
+        "relation": "создаёт общую историю",
+        "kind": "social"
+      }
+    ]
+  },
+  "sparql_focus": {
+    "seed_entities": {
+      "time": "Q11471",
+      "past": "Q192630",
+      "present": "Q193168",
+      "future": "Q344",
+      "memory": "Q492",
+      "childhood": "Q276258",
+      "adolescence": "Q131774",
+      "planning": "Q309100",
+      "time management": "Q355217",
+      "procrastination": "Q330104",
+      "interpersonal relationship": "Q223642"
+    },
+    "queries": [
+      "QUERY_SEED_ENTITIES",
+      "QUERY_EXPAND_CLASS_TREE",
+      "QUERY_LOCAL_GRAPH",
+      "QUERY_REVERSE_GRAPH"
+    ],
+    "focus_properties": [
+      "instance of",
+      "subclass of",
+      "direct claims",
+      "reverse direct claims"
+    ],
+    "notes": "Запросы запускались к Wikidata Query Service; raw и normalized результаты сохранены в data/wikidata."
+  }
+}

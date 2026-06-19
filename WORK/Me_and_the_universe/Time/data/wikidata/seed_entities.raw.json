@@ -1,0 +1,189 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "itemDescription"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q330104"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Прокрастинация"
+        },
+        "itemDescription": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "постоянное откладывание дел"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q344"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "будущее"
+        },
+        "itemDescription": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "часть линии времени, множество событий, которые ещё не произошли, но произойдут"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "itemDescription": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "форма протекания физических и психических процессов"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q276258"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "детство"
+        },
+        "itemDescription": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ранний период жизни человека"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        },
+        "itemDescription": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "strong, deep, or close association or acquaintance between two or more people"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q193168"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "настоящее время"
+        },
+        "itemDescription": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "часть линии времени"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "itemDescription": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "психическая функция и вид умственной деятельности для сохранения, накопления и воспроизведения информации"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "itemDescription": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "моделирование будущего"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131774"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "подростковый возраст"
+        },
+        "itemDescription": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "человек в подростковом возрасте"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q192630"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "прошедшее время"
+        },
+        "itemDescription": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "множество событий, хронологически предшествующих данному моменту"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q355217"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "управление временем"
+        },
+        "itemDescription": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "процедуры, помогающие обрабатывать незавершенные задачи и встречи в течение доступного периода времени"
+        }
+      }
+    ]
+  }
+}

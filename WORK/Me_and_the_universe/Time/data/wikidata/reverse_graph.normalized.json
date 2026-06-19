@@ -1,0 +1,2002 @@
+[
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q106160142",
+    "item1Qid": "Q106160142",
+    "item1Label": "Q106160142",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q249393",
+    "item1Qid": "Q249393",
+    "item1Label": "À la minute",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q2990807",
+    "item1Qid": "Q2990807",
+    "item1Label": "Управленческий учёт",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q17996406",
+    "item1Qid": "Q17996406",
+    "item1Label": "отцовство",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q1345741",
+    "item1Qid": "Q1345741",
+    "item1Label": "Q1345741",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q12230930",
+    "item1Qid": "Q12230930",
+    "item1Label": "fi'il muḍāri'",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q124461433",
+    "item1Qid": "Q124461433",
+    "item1Label": "моноамория",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q11756",
+    "item1Qid": "Q11756",
+    "item1Label": "доисторический период",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q7258027",
+    "item1Qid": "Q7258027",
+    "item1Label": "Public transport planning",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q3907287",
+    "item1Qid": "Q3907287",
+    "item1Label": "policy making",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q12335047",
+    "item1Qid": "Q12335047",
+    "item1Label": "Q12335047",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q60994160",
+    "item1Qid": "Q60994160",
+    "item1Label": "Q60994160",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q64026352",
+    "item1Qid": "Q64026352",
+    "item1Label": "Q64026352",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q2267786",
+    "item1Qid": "Q2267786",
+    "item1Label": "Q2267786",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q136813277",
+    "item1Qid": "Q136813277",
+    "item1Label": "Relationship of Alexander Hamilton and Thomas Jefferson",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q6146525",
+    "item1Qid": "Q6146525",
+    "item1Label": "геологическое время",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q123851702",
+    "item1Qid": "Q123851702",
+    "item1Label": "metamour",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q3366019",
+    "item1Qid": "Q3366019",
+    "item1Label": "civil naming ceremony",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q5442714",
+    "item1Qid": "Q5442714",
+    "item1Label": "female-led relationship",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q55313907",
+    "item1Qid": "Q55313907",
+    "item1Label": "p.m.",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q4463986",
+    "item1Qid": "Q4463986",
+    "item1Label": "Троцкий и Ленин",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q4689650",
+    "item1Qid": "Q4689650",
+    "item1Label": "African-American–Jewish relations",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q323611",
+    "item1Qid": "Q323611",
+    "item1Label": "планирование здания",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q1389255",
+    "item1Qid": "Q1389255",
+    "item1Label": "Operation Santa Claus",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q3626640",
+    "item1Qid": "Q3626640",
+    "item1Label": "Associazione Nazionale Alpini",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q13166477",
+    "item1Qid": "Q13166477",
+    "item1Label": "Q13166477",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q185911",
+    "item1Qid": "Q185911",
+    "item1Label": "временный брак",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q115142079",
+    "item1Qid": "Q115142079",
+    "item1Label": "Q115142079",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q1274218",
+    "item1Qid": "Q1274218",
+    "item1Label": "Q1274218",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q114759535",
+    "item1Qid": "Q114759535",
+    "item1Label": "Q114759535",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q276258",
+    "item2Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q3054124",
+    "item1Qid": "Q3054124",
+    "item1Label": "childhood of Franz Liszt",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "детство"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q2910720",
+    "item1Qid": "Q2910720",
+    "item1Label": "Planning of the September 11 attacks",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q65267081",
+    "item1Qid": "Q65267081",
+    "item1Label": "Q65267081",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q55313888",
+    "item1Qid": "Q55313888",
+    "item1Label": "a.m.",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q1822917",
+    "item1Qid": "Q1822917",
+    "item1Label": "relationship between Friedrich Nietzsche and Max Stirner",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q109973527",
+    "item1Qid": "Q109973527",
+    "item1Label": "Curvature of Space and Time, with an Introduction to Geometric Analysis",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q276258",
+    "item2Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q12300569",
+    "item1Qid": "Q12300569",
+    "item1Label": "Adolf Hitler's childhood",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "детство"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q7086515",
+    "item1Qid": "Q7086515",
+    "item1Label": "olfactory memory",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q4738155",
+    "item1Qid": "Q4738155",
+    "item1Label": "финансовый менеджмент",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q84036549",
+    "item1Qid": "Q84036549",
+    "item1Label": "нематериальное культурное наследие ЮНЕСКО",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q2534258",
+    "item1Qid": "Q2534258",
+    "item1Label": "Q2534258",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q131990603",
+    "item1Qid": "Q131990603",
+    "item1Label": "Q131990603",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q6043704",
+    "item1Qid": "Q6043704",
+    "item1Label": "Intellectual capital management",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q7572660",
+    "item1Qid": "Q7572660",
+    "item1Label": "Spacecraft Event Time",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q131618855",
+    "item1Qid": "Q131618855",
+    "item1Label": "Situationship",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q105192976",
+    "item1Qid": "Q105192976",
+    "item1Label": "биохронологическая единица",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q93342662",
+    "item1Qid": "Q93342662",
+    "item1Label": "Q93342662",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q18454694",
+    "item1Qid": "Q18454694",
+    "item1Label": "Q18454694",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q41075",
+    "item1Qid": "Q41075",
+    "item1Label": "гражданское партнёрство",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q3517759",
+    "item1Qid": "Q3517759",
+    "item1Label": "космологическое время",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q1501477",
+    "item1Qid": "Q1501477",
+    "item1Label": "approval planning",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q107740959",
+    "item1Qid": "Q107740959",
+    "item1Label": "New York option cut",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q778554",
+    "item1Qid": "Q778554",
+    "item1Label": "Рабочая документация",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q100380790",
+    "item1Qid": "Q100380790",
+    "item1Label": "Многомерное время в физике",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q376596",
+    "item1Qid": "Q376596",
+    "item1Label": "ухаживание",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q4364449",
+    "item1Qid": "Q4364449",
+    "item1Label": "Планирование на предприятии",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q276258",
+    "item2Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q109023571",
+    "item1Qid": "Q109023571",
+    "item1Label": "Childhood of Francisco Franco",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "детство"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q110933483",
+    "item1Qid": "Q110933483",
+    "item1Label": "World Smile",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q784955",
+    "item1Qid": "Q784955",
+    "item1Label": "Q784955",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q12972270",
+    "item1Qid": "Q12972270",
+    "item1Label": "Q12972270",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q99336900",
+    "item1Qid": "Q99336900",
+    "item1Label": "Q99336900",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q355217",
+    "item2Qid": "Q355217",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q65073369",
+    "item1Qid": "Q65073369",
+    "item1Label": "monday.com",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "управление временем"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q344",
+    "item2Qid": "Q344",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q2003654",
+    "item1Qid": "Q2003654",
+    "item1Label": "Будущее Земли",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "будущее"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q5704038",
+    "item1Qid": "Q5704038",
+    "item1Label": "Q5704038",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q131387931",
+    "item1Qid": "Q131387931",
+    "item1Label": "duogamy",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q136486330",
+    "item1Qid": "Q136486330",
+    "item1Label": "memory tourism",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q355217",
+    "item2Qid": "Q355217",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q115350741",
+    "item1Qid": "Q115350741",
+    "item1Label": "Clockwise",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "управление временем"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q18198241",
+    "item1Qid": "Q18198241",
+    "item1Label": "ruler and subject",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q18421181",
+    "item1Qid": "Q18421181",
+    "item1Label": "контроль численности населения",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q110255742",
+    "item1Qid": "Q110255742",
+    "item1Label": "крёстное родительство",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q12529237",
+    "item1Qid": "Q12529237",
+    "item1Label": "Q12529237",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q1497795",
+    "item1Qid": "Q1497795",
+    "item1Label": "Q1497795",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q806356",
+    "item1Qid": "Q806356",
+    "item1Label": "frequency plan",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q65157858",
+    "item1Qid": "Q65157858",
+    "item1Label": "Plan des artistes",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q7226219",
+    "item1Qid": "Q7226219",
+    "item1Label": "polychronicity",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q276258",
+    "item2Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q116971084",
+    "item1Qid": "Q116971084",
+    "item1Label": "Childhood of Jesus",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "детство"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q2558763",
+    "item1Qid": "Q2558763",
+    "item1Label": "Earth time",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q959649",
+    "item1Qid": "Q959649",
+    "item1Label": "biochron",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q124853926",
+    "item1Qid": "Q124853926",
+    "item1Label": "Einstein–Oppenheimer relationship",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q867147",
+    "item1Qid": "Q867147",
+    "item1Label": "дистрибуция",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q138314457",
+    "item1Qid": "Q138314457",
+    "item1Label": "ManguJyoti",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q28864853",
+    "item1Qid": "Q28864853",
+    "item1Label": "покровительство",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q130611696",
+    "item1Qid": "Q130611696",
+    "item1Label": "Q130611696",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q19854902",
+    "item1Qid": "Q19854902",
+    "item1Label": "Convention Centre",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q3308868",
+    "item1Qid": "Q3308868",
+    "item1Label": "Six Ages of the World",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q5655495",
+    "item1Qid": "Q5655495",
+    "item1Label": "свойство быть бабушкой или дедушкой",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q344",
+    "item2Qid": "Q344",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q105468213",
+    "item1Qid": "Q105468213",
+    "item1Label": "future of work",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "будущее"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q124304611",
+    "item1Qid": "Q124304611",
+    "item1Label": "Karaṇa",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q100319822",
+    "item1Qid": "Q100319822",
+    "item1Label": "Trouwen oer de putheak",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q211354",
+    "item1Qid": "Q211354",
+    "item1Label": "педерастия",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q120811413",
+    "item1Qid": "Q120811413",
+    "item1Label": "Municipal heat planning",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "планирование"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item1": "http://www.wikidata.org/entity/Q16310974",
+    "item1Qid": "Q16310974",
+    "item1Label": "Q16310974",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q131125144",
+    "item1Qid": "Q131125144",
+    "item1Label": "Enkhshur Narmandakh",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q90482396",
+    "item1Qid": "Q90482396",
+    "item1Label": "Henry Otgaar",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q1359460",
+    "item1Qid": "Q1359460",
+    "item1Label": "Ernst Meckelburg",
+    "propLabel": "область деятельности",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q112381573",
+    "item1Qid": "Q112381573",
+    "item1Label": "Jeffrey Prager",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q139478944",
+    "item1Qid": "Q139478944",
+    "item1Label": "Q139478944",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q124636709",
+    "item1Qid": "Q124636709",
+    "item1Label": "František Zitrický",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q124985049",
+    "item1Qid": "Q124985049",
+    "item1Label": "Andrea Cossu",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q139462904",
+    "item1Qid": "Q139462904",
+    "item1Label": "Q139462904",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q109557921",
+    "item1Qid": "Q109557921",
+    "item1Label": "Leonor Arfuch",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q119858744",
+    "item1Qid": "Q119858744",
+    "item1Label": "Deborah Hannula",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q64705722",
+    "item1Qid": "Q64705722",
+    "item1Label": "William H. Batchelder",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q85308629",
+    "item1Qid": "Q85308629",
+    "item1Label": "Giulia Galli",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q60167973",
+    "item1Qid": "Q60167973",
+    "item1Label": "Wilma A Bainbridge",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q90919926",
+    "item1Qid": "Q90919926",
+    "item1Label": "Murray Singer",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q61102989",
+    "item1Qid": "Q61102989",
+    "item1Label": "Timothy T Rogers",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q139465612",
+    "item1Qid": "Q139465612",
+    "item1Label": "Q139465612",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q102388252",
+    "item1Qid": "Q102388252",
+    "item1Label": "Scott A Small",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q125732913",
+    "item1Qid": "Q125732913",
+    "item1Label": "Ronald P. Fisher",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q56091641",
+    "item1Qid": "Q56091641",
+    "item1Label": "Randall Engle",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q111685037",
+    "item1Qid": "Q111685037",
+    "item1Label": "Takashi Tsukiura",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q112521311",
+    "item1Qid": "Q112521311",
+    "item1Label": "Suzanne Nalbantian",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q134589493",
+    "item1Qid": "Q134589493",
+    "item1Label": "William F. Brewer",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q59211200",
+    "item1Qid": "Q59211200",
+    "item1Label": "Mark Moss",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q112551605",
+    "item1Qid": "Q112551605",
+    "item1Label": "Bruce Ecker",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q5534746",
+    "item1Qid": "Q5534746",
+    "item1Label": "Geoffrey Loftus",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q7147845",
+    "item1Qid": "Q7147845",
+    "item1Label": "Patrick Wilken",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q907933",
+    "item1Qid": "Q907933",
+    "item1Label": "Эндель Тульвинг",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q127868047",
+    "item1Qid": "Q127868047",
+    "item1Label": "Isabelle Fort",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q90459005",
+    "item1Qid": "Q90459005",
+    "item1Label": "Kenneth Graham Drinkwater",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q59314109",
+    "item1Qid": "Q59314109",
+    "item1Label": "Elizabeth A McDevitt",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q50622375",
+    "item1Qid": "Q50622375",
+    "item1Label": "Michael R. Dougherty",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q122943228",
+    "item1Qid": "Q122943228",
+    "item1Label": "Rachael A. Wynne",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q139467589",
+    "item1Qid": "Q139467589",
+    "item1Label": "Q139467589",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q89418719",
+    "item1Qid": "Q89418719",
+    "item1Label": "Timothy F. Brady",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q1395176",
+    "item1Qid": "Q1395176",
+    "item1Label": "Бельгийский музей королевской армии и военной истории",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q116255763",
+    "item1Qid": "Q116255763",
+    "item1Label": "Maja Ruznic",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q612094",
+    "item1Qid": "Q612094",
+    "item1Label": "Генри Рёдигер",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q105557498",
+    "item1Qid": "Q105557498",
+    "item1Label": "Джим Квик",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q123271889",
+    "item1Qid": "Q123271889",
+    "item1Label": "Lucie Poková",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q112560920",
+    "item1Qid": "Q112560920",
+    "item1Label": "Albert N. Katz",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q344",
+    "item2Qid": "Q344",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q135306146",
+    "item1Qid": "Q135306146",
+    "item1Label": "Ben Anderson",
+    "propLabel": "область деятельности",
+    "item2Label": "будущее"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q58823545",
+    "item1Qid": "Q58823545",
+    "item1Label": "Elisabeth A. Murray",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q62607148",
+    "item1Qid": "Q62607148",
+    "item1Label": "Sean Commins",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q124640234",
+    "item1Qid": "Q124640234",
+    "item1Label": "Catherine Loveday",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q42642310",
+    "item1Qid": "Q42642310",
+    "item1Label": "Donna Rose Addis",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q7609559",
+    "item1Qid": "Q7609559",
+    "item1Label": "Stephen J. Ceci",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q112409591",
+    "item1Qid": "Q112409591",
+    "item1Label": "Tomáš Petrásek",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q137883688",
+    "item1Qid": "Q137883688",
+    "item1Label": "Gordon D. A. Brown",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q48209183",
+    "item1Qid": "Q48209183",
+    "item1Label": "Scott D Slotnick",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q112510611",
+    "item1Qid": "Q112510611",
+    "item1Label": "Peter Gilgen",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q137292915",
+    "item1Qid": "Q137292915",
+    "item1Label": "Q137292915",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q139458012",
+    "item1Qid": "Q139458012",
+    "item1Label": "Q139458012",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q64592306",
+    "item1Qid": "Q64592306",
+    "item1Label": "Samuel Merrill",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q56056908",
+    "item1Qid": "Q56056908",
+    "item1Label": "Kim S. Graham",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q139477665",
+    "item1Qid": "Q139477665",
+    "item1Label": "Q139477665",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q112542745",
+    "item1Qid": "Q112542745",
+    "item1Label": "Thorsten Pachur",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q58338960",
+    "item1Qid": "Q58338960",
+    "item1Label": "Ana Verdelho",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q64707800",
+    "item1Qid": "Q64707800",
+    "item1Label": "Ran Zwigenberg",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q124737240",
+    "item1Qid": "Q124737240",
+    "item1Label": "Peps Mccrea",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q112557683",
+    "item1Qid": "Q112557683",
+    "item1Label": "Robert E. Clark",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q1541930",
+    "item1Qid": "Q1541930",
+    "item1Label": "Грэм Хитч",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q893703",
+    "item1Qid": "Q893703",
+    "item1Label": "Boris Konrad",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q45732346",
+    "item1Qid": "Q45732346",
+    "item1Label": "Mark L. Howe",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q18210684",
+    "item1Qid": "Q18210684",
+    "item1Label": "Марк Макдэниел",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q112453468",
+    "item1Qid": "Q112453468",
+    "item1Label": "Bartosz Kwieciński",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q87967659",
+    "item1Qid": "Q87967659",
+    "item1Label": "Melissa Collins Duff",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q91892292",
+    "item1Qid": "Q91892292",
+    "item1Label": "Véronique D Bohbot",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q6310106",
+    "item1Qid": "Q6310106",
+    "item1Label": "Julius Thomas Fraser",
+    "propLabel": "область деятельности",
+    "item2Label": "время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q88760780",
+    "item1Qid": "Q88760780",
+    "item1Label": "R Shayna Rosenbaum",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q111115",
+    "item1Qid": "Q111115",
+    "item1Label": "Алейда Ассман",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q124616877",
+    "item1Qid": "Q124616877",
+    "item1Label": "Jane Grisewood",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q112647871",
+    "item1Qid": "Q112647871",
+    "item1Label": "Bruce Mockett",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q98276999",
+    "item1Qid": "Q98276999",
+    "item1Label": "Gillian Cohen",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q38327951",
+    "item1Qid": "Q38327951",
+    "item1Label": "Donald A Wilson",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q70656681",
+    "item1Qid": "Q70656681",
+    "item1Label": "Mateus Henrique de Faria Pereira",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q138970185",
+    "item1Qid": "Q138970185",
+    "item1Label": "Richard Ashley",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q56056909",
+    "item1Qid": "Q56056909",
+    "item1Label": "Morgan D. Barense",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q44767631",
+    "item1Qid": "Q44767631",
+    "item1Label": "Simona Ghetti",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q56073523",
+    "item1Qid": "Q56073523",
+    "item1Label": "Pooja K Agarwal",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q57041893",
+    "item1Qid": "Q57041893",
+    "item1Label": "Gordon Feld",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q22278560",
+    "item1Qid": "Q22278560",
+    "item1Label": "Lynne Kelly",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q139466909",
+    "item1Qid": "Q139466909",
+    "item1Label": "Q139466909",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q139452508",
+    "item1Qid": "Q139452508",
+    "item1Label": "Q139452508",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q57146598",
+    "item1Qid": "Q57146598",
+    "item1Label": "Angela Gutchess",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q136498942",
+    "item1Qid": "Q136498942",
+    "item1Label": "Jonathan Firth",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q44870931",
+    "item1Qid": "Q44870931",
+    "item1Label": "Янжаа",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q54675835",
+    "item1Qid": "Q54675835",
+    "item1Label": "Robert J Calin-Jageman",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q47502103",
+    "item1Qid": "Q47502103",
+    "item1Label": "Edgar Erdfelder",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q7165312",
+    "item1Qid": "Q7165312",
+    "item1Label": "Pentti Kanerva",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q63440331",
+    "item1Qid": "Q63440331",
+    "item1Label": "Sharon Mutter",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q57422619",
+    "item1Qid": "Q57422619",
+    "item1Label": "John T. E. Richardson",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q118521909",
+    "item1Qid": "Q118521909",
+    "item1Label": "División Etnografía del Museo de La Plata",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q131124067",
+    "item1Qid": "Q131124067",
+    "item1Label": "Munkhshur Narmandakh",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q104681936",
+    "item1Qid": "Q104681936",
+    "item1Label": "Brandeis University Department of Psychology",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q39185920",
+    "item1Qid": "Q39185920",
+    "item1Label": "Hugo J Spiers",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q93183026",
+    "item1Qid": "Q93183026",
+    "item1Label": "War Heritage Institute",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q112367735",
+    "item1Qid": "Q112367735",
+    "item1Label": "Jack Ashton Adams",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q112564105",
+    "item1Qid": "Q112564105",
+    "item1Label": "Ruth Schumann-Hengsteler",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q121493874",
+    "item1Qid": "Q121493874",
+    "item1Label": "David A. Lieberman",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q492",
+    "item2Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q139451333",
+    "item1Qid": "Q139451333",
+    "item1Label": "Q139451333",
+    "propLabel": "область деятельности",
+    "item2Label": "память"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q61913337",
+    "item1Qid": "Q61913337",
+    "item1Label": "Christopher Robert",
+    "propLabel": "область деятельности",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q14816066",
+    "item1Qid": "Q14816066",
+    "item1Label": "Marilyn Friedman",
+    "propLabel": "область деятельности",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q112496464",
+    "item1Qid": "Q112496464",
+    "item1Label": "Christopher Rolfe Agnew",
+    "propLabel": "область деятельности",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q193168",
+    "item2Qid": "Q193168",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q744203",
+    "item1Qid": "Q744203",
+    "item1Label": "Panorama",
+    "propLabel": "область деятельности",
+    "item2Label": "настоящее время"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q17986775",
+    "item1Qid": "Q17986775",
+    "item1Label": "Laura Janáčková",
+    "propLabel": "область деятельности",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q112529116",
+    "item1Qid": "Q112529116",
+    "item1Label": "Q112529116",
+    "propLabel": "область деятельности",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q95398657",
+    "item1Qid": "Q95398657",
+    "item1Label": "Bruce McArthur",
+    "propLabel": "область деятельности",
+    "item2Label": "межличностные отношения"
+  },
+  {
+    "item2": "http://www.wikidata.org/entity/Q223642",
+    "item2Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P101",
+    "item1": "http://www.wikidata.org/entity/Q112435375",
+    "item1Qid": "Q112435375",
+    "item1Label": "Klára Mandausová",
+    "propLabel": "область деятельности",
+    "item2Label": "межличностные отношения"
+  }
+]

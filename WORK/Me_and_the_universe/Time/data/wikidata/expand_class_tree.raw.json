@@ -1,0 +1,3605 @@
+{
+  "head": {
+    "vars": [
+      "seed",
+      "seedLabel",
+      "related",
+      "relatedLabel",
+      "relation"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58682755"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "advertising planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108731064"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "route planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q65177701"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Зонирование"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q65209002"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "incident response planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2312420"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "study planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2334061"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование эксперимента"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4681438"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q4681438"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119230233"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование в области культуры"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7216332"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "прогностика"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13138136"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "городская среда"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q330104"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4924364"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Прокрастинация"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Синдром студента"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119340203"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование развития"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q100230849"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "town and country planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119426464"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование науки"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119465881"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "tourism planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119502668"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сельское планирование"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12062721"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "CSRP"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123130234"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "water planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3761395"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "career management"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3420088"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рацион"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6031259"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Information technology planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137838254"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "habit tracking"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3907287"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "policy making"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56410189"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "postmodern planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6089252"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "no-build alternative"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19841949"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "infrastructure planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6941128"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "museum planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3902023"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование в области передачи информации и связи"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130752662"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "production planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17058518"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "interpretive planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q101580048"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "campaign planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q114180081"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "long-term planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28135926"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "communicative planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11423681"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "infrastructure planning studies"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2333529"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q2333529"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15808187"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q15808187"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5283878"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "dive planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131447813"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "long-horizon planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131452827"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "hierarchical search"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131452884"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "path planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131452956"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "re-planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5156258"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "compensation"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3391448"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "экономическое планирование"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20553319"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Территориальное планирование"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5377181"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "energy planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5400688"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Имущественное планирование"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3458152"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "backward planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15809223"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "timetable construction"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117767725"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "documentation planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2498490"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "corporate planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20828672"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q20828672"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11606388"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "corporate planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q54806642"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отмена"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2755138"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "birth planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4449452"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование навигационного перехода"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18419461"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "didactic sequence"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q330104"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5583777"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Прокрастинация"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Goofing off"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q330104"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q105954341"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Прокрастинация"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Прокрастинация в ущерб сну"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118213224"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "industrial planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118248041"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "library planning"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309100"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118303052"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "планирование использования рабочей силы"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q193168"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q113469622"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "настоящее время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "this week"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11337567"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "рабочая память"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5165163"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "context-dependent memory"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q347066"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "реальное время"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36980955"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "narrative time"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7663751"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Системные часы"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16543382"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "completion time"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q916150"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Проспективная память"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q230100"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "на кончике языка"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q344"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q113517952"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "будущее"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "next month"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q344"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q113540978"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "будущее"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "week after the next"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12541457"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Döp"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1020027"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Trading day"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q193168"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12048317"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "настоящее время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "presence"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q386001"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Эйдетизм"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q193168"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3151690"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "настоящее время"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сегодня"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188790"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "конкубинат"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1486532"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "GPS time"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q184211"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "моногамия"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5130779"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q5130779"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13197433"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rancata"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7806612"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "временная линия"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1493532"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "power reserve"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q193168"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17134047"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "настоящее время"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "текущий день"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q382798"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Committed relationship"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q177453"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "residence time"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3560550"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "пространственная память"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27249"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Гражданский договор солидарности"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q192630"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q125968071"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "прошедшее время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "last week"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q193168"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124842747"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "настоящее время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "this time"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1080996"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сенсорная память"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1968542"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сталийное время"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5447288"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "жизненный цикл продукта"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1986022"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Время Ч"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q736922"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "интимные отношения"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7962640"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "wall-clock time"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6146512"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "propagation time"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q344"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "будущее"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q254217"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "коллективная память"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2527923"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время Ляпунова"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q171318"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "родство"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7447782"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "selective retention"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4135208"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "time of arrival"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25424450"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "extra time"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q638827"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "symmetry minute"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2051704"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "парамнезия"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117001278"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "graduation time"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12203484"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "local time"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q344"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5510835"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "будущее"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "будущее математики"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q427173"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Бостонский брак"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q344"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18354756"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "будущее"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "далёкое будущее"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7124679"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Оплачиваемый отпуск"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97010218"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "crystallization time"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q344"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124854763"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "будущее"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "наступающая ночь"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22676729"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время по регионам"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108923202"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "fear memory"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28130149"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Экранное время"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q136786005"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Selective memory"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q138639822"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Xiaomi Watch"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q491"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "дружба"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q257356"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "hanky-panky"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q398085"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "эон"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q193168"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3151694"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "настоящее время"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q3151694"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q69905337"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "retention"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2675808"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Время удержания"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q344"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q41617596"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "будущее"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "будущее человечества"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2692909"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q2692909"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25339939"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "associative memory"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q344"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q92136810"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "будущее"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ближайшее будущее"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4907779"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "bilingual memory"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q409227"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "air-time"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q193168"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q124854771"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "настоящее время"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "сегодня ночью"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18603"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "declarative memory"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18601"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "долговременная память"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18599"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "кратковременная память"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q67181652"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "broadcasting time"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18646"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Эпизодическая память"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6822984"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "metamemory"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12049329"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q12049329"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21012007"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q21012007"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56298247"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "source memory"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q41075"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "гражданское партнёрство"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25598946"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "type": "literal",
+          "value": "Q25598946"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q186566"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "хронологический порядок"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q344"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q113540972"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "будущее"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "next week"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11471"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18410979"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "время"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "regular trading hours"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223642"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q209041"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "межличностные отношения"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "платоническая любовь"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7920941"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "verbal memory"
+        }
+      },
+      {
+        "seed": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q492"
+        },
+        "related": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7936607"
+        },
+        "relation": {
+          "type": "literal",
+          "value": "subclass of"
+        },
+        "seedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "память"
+        },
+        "relatedLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "зрительная память"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1802 @@
+[
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P6104",
+    "item2": "http://www.wikidata.org/entity/Q10858450",
+    "item2Qid": "Q10858450",
+    "item1Label": "время",
+    "propLabel": "относится к вики-проекту",
+    "item2Label": "Проект:Психология и психиатрия"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P527",
+    "item2": "http://www.wikidata.org/entity/Q11398090",
+    "item2Qid": "Q11398090",
+    "item1Label": "память",
+    "propLabel": "состоит из",
+    "item2Label": "создание"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P910",
+    "item2": "http://www.wikidata.org/entity/Q4049213",
+    "item2Qid": "Q4049213",
+    "item1Label": "время",
+    "propLabel": "общая категория по теме",
+    "item2Label": "Категория:Время"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P1557",
+    "item2": "http://www.wikidata.org/entity/Q3054889",
+    "item2Qid": "Q3054889",
+    "item1Label": "время",
+    "propLabel": "является воплощением",
+    "item2Label": "измеримое множество"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P1424",
+    "item2": "http://www.wikidata.org/entity/Q12433042",
+    "item2Qid": "Q12433042",
+    "item1Label": "память",
+    "propLabel": "основной шаблон по теме",
+    "item2Label": "Template:Memory"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P1424",
+    "item2": "http://www.wikidata.org/entity/Q16354790",
+    "item2Qid": "Q16354790",
+    "item1Label": "время",
+    "propLabel": "основной шаблон по теме",
+    "item2Label": "Template:Time sidebar"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q309100",
+    "item1Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P3095",
+    "item2": "http://www.wikidata.org/entity/Q816432",
+    "item2Qid": "Q816432",
+    "item1Label": "планирование",
+    "propLabel": "практикуется",
+    "item2Label": "менеджер проектов"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P279",
+    "item2": "http://www.wikidata.org/entity/Q14819853",
+    "item2Qid": "Q14819853",
+    "item1Label": "память",
+    "propLabel": "подкласс от",
+    "item2Label": "обучение или память"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q309100",
+    "item1Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P3095",
+    "item2": "http://www.wikidata.org/entity/Q6807900",
+    "item2Qid": "Q6807900",
+    "item1Label": "планирование",
+    "propLabel": "практикуется",
+    "item2Label": "meeting and convention planner"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q309100",
+    "item1Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P2283",
+    "item2": "http://www.wikidata.org/entity/Q7201355",
+    "item2Qid": "Q7201355",
+    "item1Label": "планирование",
+    "propLabel": "использует",
+    "item2Label": "cognitive planning"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q309100",
+    "item1Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P910",
+    "item2": "http://www.wikidata.org/entity/Q7013788",
+    "item2Qid": "Q7013788",
+    "item1Label": "планирование",
+    "propLabel": "общая категория по теме",
+    "item2Label": "Категория:Планирование"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P6104",
+    "item2": "http://www.wikidata.org/entity/Q13548104",
+    "item2Qid": "Q13548104",
+    "item1Label": "время",
+    "propLabel": "относится к вики-проекту",
+    "item2Label": "Проект:Время"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q309100",
+    "item1Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P1424",
+    "item2": "http://www.wikidata.org/entity/Q136192823",
+    "item2Qid": "Q136192823",
+    "item1Label": "планирование",
+    "propLabel": "основной шаблон по теме",
+    "item2Label": "Template:Planning sidebar"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P1424",
+    "item2": "http://www.wikidata.org/entity/Q6100942",
+    "item2Qid": "Q6100942",
+    "item1Label": "время",
+    "propLabel": "основной шаблон по теме",
+    "item2Label": "Шаблон:Время"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q193168",
+    "item1Qid": "Q193168",
+    "p": "http://www.wikidata.org/prop/direct/P361",
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "item1Label": "настоящее время",
+    "propLabel": "является частью",
+    "item2Label": "время"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q192630",
+    "item1Qid": "Q192630",
+    "p": "http://www.wikidata.org/prop/direct/P2579",
+    "item2": "http://www.wikidata.org/entity/Q65928774",
+    "item2Qid": "Q65928774",
+    "item1Label": "прошедшее время",
+    "propLabel": "изучается в",
+    "item2Label": "историческая наука"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q192630",
+    "item1Qid": "Q192630",
+    "p": "http://www.wikidata.org/prop/direct/P461",
+    "item2": "http://www.wikidata.org/entity/Q344",
+    "item2Qid": "Q344",
+    "item1Label": "прошедшее время",
+    "propLabel": "противоположно",
+    "item2Label": "будущее"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q124737633",
+    "item2Qid": "Q124737633",
+    "item1Label": "память",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Армянская советская энциклопедия, том 6"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q276258",
+    "item1Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item2": "http://www.wikidata.org/entity/Q785260",
+    "item2Qid": "Q785260",
+    "item1Label": "детство",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "фаза человеческой жизни"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q193168",
+    "item1Qid": "Q193168",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q3181656",
+    "item2Qid": "Q3181656",
+    "item1Label": "настоящее время",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Нуттоллова энциклопедия"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q309100",
+    "item1Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P3095",
+    "item2": "http://www.wikidata.org/entity/Q58180581",
+    "item2Qid": "Q58180581",
+    "item1Label": "планирование",
+    "propLabel": "практикуется",
+    "item2Label": "operations manager"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item2": "http://www.wikidata.org/entity/Q181175",
+    "item2Qid": "Q181175",
+    "item1Label": "время",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "скалярная физическая величина"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q344",
+    "item1Qid": "Q344",
+    "p": "http://www.wikidata.org/prop/direct/P1889",
+    "item2": "http://www.wikidata.org/entity/Q124338310",
+    "item2Qid": "Q124338310",
+    "item1Label": "будущее",
+    "propLabel": "не путать с",
+    "item2Label": "De Toekomst"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q309100",
+    "item1Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P1056",
+    "item2": "http://www.wikidata.org/entity/Q1371819",
+    "item2Qid": "Q1371819",
+    "item1Label": "планирование",
+    "propLabel": "продукция",
+    "item2Label": "план"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P1889",
+    "item2": "http://www.wikidata.org/entity/Q5830907",
+    "item2Qid": "Q5830907",
+    "item1Label": "память",
+    "propLabel": "не путать с",
+    "item2Label": "компьютерная память"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P5008",
+    "item2": "http://www.wikidata.org/entity/Q5460604",
+    "item2Qid": "Q5460604",
+    "item1Label": "время",
+    "propLabel": "рабочий список проекта Викимедиа",
+    "item2Label": "Википедия:Список статей, которые должны быть во всех языковых версиях"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P2737",
+    "item2": "http://www.wikidata.org/entity/Q23766486",
+    "item2Qid": "Q23766486",
+    "item1Label": "память",
+    "propLabel": "является объединением",
+    "item2Label": "см. список:"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item2": "http://www.wikidata.org/entity/Q2487752",
+    "item2Qid": "Q2487752",
+    "item1Label": "время",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "независимая переменная"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P5008",
+    "item2": "http://www.wikidata.org/entity/Q6173448",
+    "item2Qid": "Q6173448",
+    "item1Label": "время",
+    "propLabel": "рабочий список проекта Викимедиа",
+    "item2Label": "Википедия:Список статей, которые должны быть во всех языковых версиях/10000"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P1299",
+    "item2": "http://www.wikidata.org/entity/Q7848306",
+    "item2Qid": "Q7848306",
+    "item1Label": "время",
+    "propLabel": "изображается на/в",
+    "item2Label": "Truth unveiled by Time"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q2041543",
+    "item2Qid": "Q2041543",
+    "item1Label": "время",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Научная энциклопедия Отто"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q344",
+    "item1Qid": "Q344",
+    "p": "http://www.wikidata.org/prop/direct/P461",
+    "item2": "http://www.wikidata.org/entity/Q192630",
+    "item2Qid": "Q192630",
+    "item1Label": "будущее",
+    "propLabel": "противоположно",
+    "item2Label": "прошедшее время"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P1552",
+    "item2": "http://www.wikidata.org/entity/Q67203587",
+    "item2Qid": "Q67203587",
+    "item1Label": "время",
+    "propLabel": "обладает свойством",
+    "item2Label": "однонаправленность"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P1552",
+    "item2": "http://www.wikidata.org/entity/Q27555265",
+    "item2Qid": "Q27555265",
+    "item1Label": "память",
+    "propLabel": "обладает свойством",
+    "item2Label": "тип памяти"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q131774",
+    "item1Qid": "Q131774",
+    "p": "http://www.wikidata.org/prop/direct/P2670",
+    "item2": "http://www.wikidata.org/entity/Q1492760",
+    "item2Qid": "Q1492760",
+    "item1Label": "подростковый возраст",
+    "propLabel": "состоит из представителей класса",
+    "item2Label": "тинейджер"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P1687",
+    "item2": "http://www.wikidata.org/entity/P4895",
+    "item2Qid": "P4895",
+    "item1Label": "время",
+    "propLabel": "соответствующее свойство",
+    "item2Label": "метка времени"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q193168",
+    "item1Qid": "Q193168",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q867541",
+    "item2Qid": "Q867541",
+    "item1Label": "настоящее время",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Британская энциклопедия, 1910—1911"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P5008",
+    "item2": "http://www.wikidata.org/entity/Q6173448",
+    "item2Qid": "Q6173448",
+    "item1Label": "память",
+    "propLabel": "рабочий список проекта Викимедиа",
+    "item2Label": "Википедия:Список статей, которые должны быть во всех языковых версиях/10000"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P910",
+    "item2": "http://www.wikidata.org/entity/Q6543558",
+    "item2Qid": "Q6543558",
+    "item1Label": "память",
+    "propLabel": "общая категория по теме",
+    "item2Label": "Категория:Память"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q2041543",
+    "item2Qid": "Q2041543",
+    "item1Label": "память",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Научная энциклопедия Отто"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P6104",
+    "item2": "http://www.wikidata.org/entity/Q8487193",
+    "item2Qid": "Q8487193",
+    "item1Label": "время",
+    "propLabel": "относится к вики-проекту",
+    "item2Label": "Проект:Физика"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P6104",
+    "item2": "http://www.wikidata.org/entity/Q8493596",
+    "item2Qid": "Q8493596",
+    "item1Label": "время",
+    "propLabel": "относится к вики-проекту",
+    "item2Label": "Проект:Астрономия"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P6104",
+    "item2": "http://www.wikidata.org/entity/Q8503311",
+    "item2Qid": "Q8503311",
+    "item1Label": "время",
+    "propLabel": "относится к вики-проекту",
+    "item2Label": "Проект:Философия"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P527",
+    "item2": "http://www.wikidata.org/entity/Q18733",
+    "item2Qid": "Q18733",
+    "item1Label": "память",
+    "propLabel": "состоит из",
+    "item2Label": "вспоминание"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q302556",
+    "item2Qid": "Q302556",
+    "item1Label": "память",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Католическая энциклопедия, 1913"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P2579",
+    "item2": "http://www.wikidata.org/entity/Q11452",
+    "item2Qid": "Q11452",
+    "item1Label": "время",
+    "propLabel": "изучается в",
+    "item2Label": "общая теория относительности"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q602358",
+    "item2Qid": "Q602358",
+    "item1Label": "время",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Энциклопедический словарь Брокгауза и Ефрона, 1890—1907"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q19180675",
+    "item2Qid": "Q19180675",
+    "item1Label": "время",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Малый энциклопедический словарь Брокгауза и Ефрона"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q19219752",
+    "item2Qid": "Q19219752",
+    "item1Label": "время",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Энциклопедический словарь Мейера (1888–1889)"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item2": "http://www.wikidata.org/entity/Q781413",
+    "item2Qid": "Q781413",
+    "item1Label": "память",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "познавательный процесс"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q602358",
+    "item2Qid": "Q602358",
+    "item1Label": "память",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Энциклопедический словарь Брокгауза и Ефрона, 1890—1907"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q19085957",
+    "item2Qid": "Q19085957",
+    "item1Label": "память",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Американская энциклопедия, 1920"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q19180675",
+    "item2Qid": "Q19180675",
+    "item1Label": "память",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Малый энциклопедический словарь Брокгауза и Ефрона"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q867541",
+    "item2Qid": "Q867541",
+    "item1Label": "время",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Британская энциклопедия, 1910—1911"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q131774",
+    "item1Qid": "Q131774",
+    "p": "http://www.wikidata.org/prop/direct/P1269",
+    "item2": "http://www.wikidata.org/entity/Q2347178",
+    "item2Qid": "Q2347178",
+    "item1Label": "подростковый возраст",
+    "propLabel": "тематически относится к",
+    "item2Label": "развитие человека"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q131774",
+    "item1Qid": "Q131774",
+    "p": "http://www.wikidata.org/prop/direct/P155",
+    "item2": "http://www.wikidata.org/entity/Q276258",
+    "item2Qid": "Q276258",
+    "item1Label": "подростковый возраст",
+    "propLabel": "предыдущее по порядку",
+    "item2Label": "детство"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q131774",
+    "item1Qid": "Q131774",
+    "p": "http://www.wikidata.org/prop/direct/P156",
+    "item2": "http://www.wikidata.org/entity/Q378915",
+    "item2Qid": "Q378915",
+    "item1Label": "подростковый возраст",
+    "propLabel": "следующее по порядку",
+    "item2Label": "зрелость"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P6104",
+    "item2": "http://www.wikidata.org/entity/Q21830614",
+    "item2Qid": "Q21830614",
+    "item1Label": "время",
+    "propLabel": "относится к вики-проекту",
+    "item2Label": "Проект:Метафизика"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q131774",
+    "item1Qid": "Q131774",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item2": "http://www.wikidata.org/entity/Q3249551",
+    "item2Qid": "Q3249551",
+    "item1Label": "подростковый возраст",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "процесс"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P6104",
+    "item2": "http://www.wikidata.org/entity/Q21830338",
+    "item2Qid": "Q21830338",
+    "item1Label": "время",
+    "propLabel": "относится к вики-проекту",
+    "item2Label": "Проект:Измерение"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P527",
+    "item2": "http://www.wikidata.org/entity/Q18601",
+    "item2Qid": "Q18601",
+    "item1Label": "память",
+    "propLabel": "состоит из",
+    "item2Label": "долговременная память"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P527",
+    "item2": "http://www.wikidata.org/entity/Q18599",
+    "item2Qid": "Q18599",
+    "item1Label": "память",
+    "propLabel": "состоит из",
+    "item2Label": "кратковременная память"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P527",
+    "item2": "http://www.wikidata.org/entity/Q18608",
+    "item2Qid": "Q18608",
+    "item1Label": "память",
+    "propLabel": "состоит из",
+    "item2Label": "эксплицитная память"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P527",
+    "item2": "http://www.wikidata.org/entity/Q18614",
+    "item2Qid": "Q18614",
+    "item1Label": "память",
+    "propLabel": "состоит из",
+    "item2Label": "имплицитная память"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q1547546",
+    "item2Qid": "Q1547546",
+    "item1Label": "время",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Zedler, Großes vollständiges Universallexicon aller Wissenschaften und Künste"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q131774",
+    "item1Qid": "Q131774",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q125634748",
+    "item2Qid": "Q125634748",
+    "item1Label": "подростковый возраст",
+    "propLabel": "описывается в источнике",
+    "item2Label": "The Blackwell Dictionary of Sociology"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q192630",
+    "item1Qid": "Q192630",
+    "p": "http://www.wikidata.org/prop/direct/P1889",
+    "item2": "http://www.wikidata.org/entity/Q33056852",
+    "item2Qid": "Q33056852",
+    "item1Label": "прошедшее время",
+    "propLabel": "не путать с",
+    "item2Label": "Q33056852"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q131774",
+    "item1Qid": "Q131774",
+    "p": "http://www.wikidata.org/prop/direct/P155",
+    "item2": "http://www.wikidata.org/entity/Q719723",
+    "item2Qid": "Q719723",
+    "item1Label": "подростковый возраст",
+    "propLabel": "предыдущее по порядку",
+    "item2Label": "предподростковый возраст"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q223642",
+    "item1Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item2": "http://www.wikidata.org/entity/Q130324710",
+    "item2Qid": "Q130324710",
+    "item1Label": "межличностные отношения",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "тип отношения"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P2959",
+    "item2": "http://www.wikidata.org/entity/Q110313664",
+    "item2Qid": "Q110313664",
+    "item1Label": "время",
+    "propLabel": "постоянный дубликат",
+    "item2Label": "Q110313664"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q193168",
+    "item1Qid": "Q193168",
+    "p": "http://www.wikidata.org/prop/direct/P156",
+    "item2": "http://www.wikidata.org/entity/Q344",
+    "item2Qid": "Q344",
+    "item1Label": "настоящее время",
+    "propLabel": "следующее по порядку",
+    "item2Label": "будущее"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q344",
+    "item1Qid": "Q344",
+    "p": "http://www.wikidata.org/prop/direct/P155",
+    "item2": "http://www.wikidata.org/entity/Q193168",
+    "item2Qid": "Q193168",
+    "item1Label": "будущее",
+    "propLabel": "предыдущее по порядку",
+    "item2Label": "настоящее время"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q309100",
+    "item1Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P3095",
+    "item2": "http://www.wikidata.org/entity/Q111650843",
+    "item2Qid": "Q111650843",
+    "item1Label": "планирование",
+    "propLabel": "практикуется",
+    "item2Label": "старший менеджер"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q131774",
+    "item1Qid": "Q131774",
+    "p": "http://www.wikidata.org/prop/direct/P1382",
+    "item2": "http://www.wikidata.org/entity/Q124411815",
+    "item2Qid": "Q124411815",
+    "item1Label": "подростковый возраст",
+    "propLabel": "частично совпадает с",
+    "item2Label": "молодая зрелость"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q193168",
+    "item1Qid": "Q193168",
+    "p": "http://www.wikidata.org/prop/direct/P279",
+    "item2": "http://www.wikidata.org/entity/Q123095572",
+    "item2Qid": "Q123095572",
+    "item1Label": "настоящее время",
+    "propLabel": "подкласс от",
+    "item2Label": "относительное время"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q223642",
+    "item1Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P1424",
+    "item2": "http://www.wikidata.org/entity/Q20333655",
+    "item2Qid": "Q20333655",
+    "item1Label": "межличностные отношения",
+    "propLabel": "основной шаблон по теме",
+    "item2Label": "Template:Interpersonal relationships footer"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P1542",
+    "item2": "http://www.wikidata.org/entity/Q104127086",
+    "item2Qid": "Q104127086",
+    "item1Label": "память",
+    "propLabel": "вызывает",
+    "item2Label": "воспоминания"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q192630",
+    "item1Qid": "Q192630",
+    "p": "http://www.wikidata.org/prop/direct/P6477",
+    "item2": "http://www.wikidata.org/entity/Q23670522",
+    "item2Qid": "Q23670522",
+    "item1Label": "прошедшее время",
+    "propLabel": "не обладает свойством",
+    "item2Label": "новизна"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P1889",
+    "item2": "http://www.wikidata.org/entity/Q104127086",
+    "item2Qid": "Q104127086",
+    "item1Label": "память",
+    "propLabel": "не путать с",
+    "item2Label": "воспоминания"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q344",
+    "item1Qid": "Q344",
+    "p": "http://www.wikidata.org/prop/direct/P910",
+    "item2": "http://www.wikidata.org/entity/Q8476238",
+    "item2Qid": "Q8476238",
+    "item1Label": "будущее",
+    "propLabel": "общая категория по теме",
+    "item2Label": "Категория:Будущее"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P1552",
+    "item2": "http://www.wikidata.org/entity/Q71238260",
+    "item2Qid": "Q71238260",
+    "item1Label": "время",
+    "propLabel": "обладает свойством",
+    "item2Label": "временные факторы"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q131774",
+    "item1Qid": "Q131774",
+    "p": "http://www.wikidata.org/prop/direct/P156",
+    "item2": "http://www.wikidata.org/entity/Q5370791",
+    "item2Qid": "Q5370791",
+    "item1Label": "подростковый возраст",
+    "propLabel": "следующее по порядку",
+    "item2Label": "пост-подростковый возраст"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q131774",
+    "item1Qid": "Q131774",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item2": "http://www.wikidata.org/entity/Q185836",
+    "item2Qid": "Q185836",
+    "item1Label": "подростковый возраст",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "возраст человека"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P1889",
+    "item2": "http://www.wikidata.org/entity/Q110224124",
+    "item2Qid": "Q110224124",
+    "item1Label": "память",
+    "propLabel": "не путать с",
+    "item2Label": "memory"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q223642",
+    "item1Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P279",
+    "item2": "http://www.wikidata.org/entity/Q853725",
+    "item2Qid": "Q853725",
+    "item1Label": "межличностные отношения",
+    "propLabel": "подкласс от",
+    "item2Label": "общественные отношения"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q344",
+    "item1Qid": "Q344",
+    "p": "http://www.wikidata.org/prop/direct/P279",
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "item1Label": "будущее",
+    "propLabel": "подкласс от",
+    "item2Label": "время"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q223642",
+    "item1Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P1424",
+    "item2": "http://www.wikidata.org/entity/Q7641127",
+    "item2Qid": "Q7641127",
+    "item1Label": "межличностные отношения",
+    "propLabel": "основной шаблон по теме",
+    "item2Label": "Шаблон:Межличностные отношения"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q344",
+    "item1Qid": "Q344",
+    "p": "http://www.wikidata.org/prop/direct/P361",
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "item1Label": "будущее",
+    "propLabel": "является частью",
+    "item2Label": "время"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q309100",
+    "item1Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P3095",
+    "item2": "http://www.wikidata.org/entity/Q136677421",
+    "item2Qid": "Q136677421",
+    "item1Label": "планирование",
+    "propLabel": "практикуется",
+    "item2Label": "planner"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q223642",
+    "item1Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P1382",
+    "item2": "http://www.wikidata.org/entity/Q921513",
+    "item2Qid": "Q921513",
+    "item1Label": "межличностные отношения",
+    "propLabel": "частично совпадает с",
+    "item2Label": "социальное поведение"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q131774",
+    "item1Qid": "Q131774",
+    "p": "http://www.wikidata.org/prop/direct/P5008",
+    "item2": "http://www.wikidata.org/entity/Q6173448",
+    "item2Qid": "Q6173448",
+    "item1Label": "подростковый возраст",
+    "propLabel": "рабочий список проекта Викимедиа",
+    "item2Label": "Википедия:Список статей, которые должны быть во всех языковых версиях/10000"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q309100",
+    "item1Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P279",
+    "item2": "http://www.wikidata.org/entity/Q1914636",
+    "item2Qid": "Q1914636",
+    "item1Label": "планирование",
+    "propLabel": "подкласс от",
+    "item2Label": "деятельность"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q192630",
+    "item1Qid": "Q192630",
+    "p": "http://www.wikidata.org/prop/direct/P910",
+    "item2": "http://www.wikidata.org/entity/Q15100058",
+    "item2Qid": "Q15100058",
+    "item1Label": "прошедшее время",
+    "propLabel": "общая категория по теме",
+    "item2Label": "Категория:Прошлое"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q309100",
+    "item1Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P1889",
+    "item2": "http://www.wikidata.org/entity/Q1371819",
+    "item2Qid": "Q1371819",
+    "item1Label": "планирование",
+    "propLabel": "не путать с",
+    "item2Label": "план"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q192630",
+    "item1Qid": "Q192630",
+    "p": "http://www.wikidata.org/prop/direct/P156",
+    "item2": "http://www.wikidata.org/entity/Q193168",
+    "item2Qid": "Q193168",
+    "item1Label": "прошедшее время",
+    "propLabel": "следующее по порядку",
+    "item2Label": "настоящее время"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q309100",
+    "item1Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P279",
+    "item2": "http://www.wikidata.org/entity/Q3249551",
+    "item2Qid": "Q3249551",
+    "item1Label": "планирование",
+    "propLabel": "подкласс от",
+    "item2Label": "процесс"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q309100",
+    "item1Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P3095",
+    "item2": "http://www.wikidata.org/entity/Q1419997",
+    "item2Qid": "Q1419997",
+    "item1Label": "планирование",
+    "propLabel": "практикуется",
+    "item2Label": "организатор"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P2579",
+    "item2": "http://www.wikidata.org/entity/Q110620109",
+    "item2Qid": "Q110620109",
+    "item1Label": "память",
+    "propLabel": "изучается в",
+    "item2Label": "memory and attention"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q131774",
+    "item1Qid": "Q131774",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q2041543",
+    "item2Qid": "Q2041543",
+    "item1Label": "подростковый возраст",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Научная энциклопедия Отто"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item2": "http://www.wikidata.org/entity/Q58415929",
+    "item2Qid": "Q58415929",
+    "item1Label": "время",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "пространственно-временная сущность"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q309100",
+    "item1Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P3095",
+    "item2": "http://www.wikidata.org/entity/Q2462658",
+    "item2Qid": "Q2462658",
+    "item1Label": "планирование",
+    "propLabel": "практикуется",
+    "item2Label": "менеджер"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q223642",
+    "item1Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P5008",
+    "item2": "http://www.wikidata.org/entity/Q6173448",
+    "item2Qid": "Q6173448",
+    "item1Label": "межличностные отношения",
+    "propLabel": "рабочий список проекта Викимедиа",
+    "item2Label": "Википедия:Список статей, которые должны быть во всех языковых версиях/10000"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q276258",
+    "item1Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item2": "http://www.wikidata.org/entity/Q119268920",
+    "item2Qid": "Q119268920",
+    "item1Label": "детство",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "произведение культуры"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q309100",
+    "item1Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P1889",
+    "item2": "http://www.wikidata.org/entity/Q7216332",
+    "item2Qid": "Q7216332",
+    "item1Label": "планирование",
+    "propLabel": "не путать с",
+    "item2Label": "прогностика"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q56441911",
+    "item2Qid": "Q56441911",
+    "item1Label": "время",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Домашняя энциклопедия, или Словарь фактов и полезных знаний"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P279",
+    "item2": "http://www.wikidata.org/entity/Q133250",
+    "item2Qid": "Q133250",
+    "item1Label": "время",
+    "propLabel": "подкласс от",
+    "item2Label": "последовательность"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q223642",
+    "item1Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P5125",
+    "item2": "http://www.wikidata.org/entity/Q7112715",
+    "item2Qid": "Q7112715",
+    "item1Label": "межличностные отношения",
+    "propLabel": "обзорная статья Викимедиа",
+    "item2Label": "outline of relationships"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q131774",
+    "item1Qid": "Q131774",
+    "p": "http://www.wikidata.org/prop/direct/P910",
+    "item2": "http://www.wikidata.org/entity/Q7441541",
+    "item2Qid": "Q7441541",
+    "item1Label": "подростковый возраст",
+    "propLabel": "общая категория по теме",
+    "item2Label": "Категория:Подростковый возраст"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q193168",
+    "item1Qid": "Q193168",
+    "p": "http://www.wikidata.org/prop/direct/P460",
+    "item2": "http://www.wikidata.org/entity/Q12048317",
+    "item2Qid": "Q12048317",
+    "item1Label": "настоящее время",
+    "propLabel": "предположительно одно и то же с",
+    "item2Label": "presence"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q193168",
+    "item1Qid": "Q193168",
+    "p": "http://www.wikidata.org/prop/direct/P1552",
+    "item2": "http://www.wikidata.org/entity/Q1661162",
+    "item2Qid": "Q1661162",
+    "item1Label": "настоящее время",
+    "propLabel": "обладает свойством",
+    "item2Label": "Индексность"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P1424",
+    "item2": "http://www.wikidata.org/entity/Q124610171",
+    "item2Qid": "Q124610171",
+    "item1Label": "время",
+    "propLabel": "основной шаблон по теме",
+    "item2Label": "Шаблон:Навигация:Время"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q193168",
+    "item1Qid": "Q193168",
+    "p": "http://www.wikidata.org/prop/direct/P1889",
+    "item2": "http://www.wikidata.org/entity/Q192613",
+    "item2Qid": "Q192613",
+    "item1Label": "настоящее время",
+    "propLabel": "не путать с",
+    "item2Label": "настоящее время"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P1889",
+    "item2": "http://www.wikidata.org/entity/Q2199864",
+    "item2Qid": "Q2199864",
+    "item1Label": "время",
+    "propLabel": "не путать с",
+    "item2Label": "продолжительность"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q309100",
+    "item1Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P527",
+    "item2": "http://www.wikidata.org/entity/Q2498490",
+    "item2Qid": "Q2498490",
+    "item1Label": "планирование",
+    "propLabel": "состоит из",
+    "item2Label": "corporate planning"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q131774",
+    "item1Qid": "Q131774",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q16082057",
+    "item2Qid": "Q16082057",
+    "item1Label": "подростковый возраст",
+    "propLabel": "описывается в источнике",
+    "item2Label": "The New Student's Reference Work"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q223642",
+    "item1Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P910",
+    "item2": "http://www.wikidata.org/entity/Q7237794",
+    "item2Qid": "Q7237794",
+    "item1Label": "межличностные отношения",
+    "propLabel": "общая категория по теме",
+    "item2Label": "Категория:Межличностные отношения"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q193168",
+    "item1Qid": "Q193168",
+    "p": "http://www.wikidata.org/prop/direct/P460",
+    "item2": "http://www.wikidata.org/entity/Q17134047",
+    "item2Qid": "Q17134047",
+    "item1Label": "настоящее время",
+    "propLabel": "предположительно одно и то же с",
+    "item2Label": "текущий день"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q344",
+    "item1Qid": "Q344",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item2": "http://www.wikidata.org/entity/Q26907166",
+    "item2Qid": "Q26907166",
+    "item1Label": "будущее",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "временная сущность"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q193168",
+    "item1Qid": "Q193168",
+    "p": "http://www.wikidata.org/prop/direct/P460",
+    "item2": "http://www.wikidata.org/entity/Q18488805",
+    "item2Qid": "Q18488805",
+    "item1Label": "настоящее время",
+    "propLabel": "предположительно одно и то же с",
+    "item2Label": "сейчас"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q309100",
+    "item1Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P1889",
+    "item2": "http://www.wikidata.org/entity/Q16686479",
+    "item2Qid": "Q16686479",
+    "item1Label": "планирование",
+    "propLabel": "не путать с",
+    "item2Label": "планирование"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q131774",
+    "item1Qid": "Q131774",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item2": "http://www.wikidata.org/entity/Q785260",
+    "item2Qid": "Q785260",
+    "item1Label": "подростковый возраст",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "фаза человеческой жизни"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q192630",
+    "item1Qid": "Q192630",
+    "p": "http://www.wikidata.org/prop/direct/P361",
+    "item2": "http://www.wikidata.org/entity/Q11471",
+    "item2Qid": "Q11471",
+    "item1Label": "прошедшее время",
+    "propLabel": "является частью",
+    "item2Label": "время"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q56441911",
+    "item2Qid": "Q56441911",
+    "item1Label": "память",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Домашняя энциклопедия, или Словарь фактов и полезных знаний"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P1889",
+    "item2": "http://www.wikidata.org/entity/Q228636",
+    "item2Qid": "Q228636",
+    "item1Label": "память",
+    "propLabel": "не путать с",
+    "item2Label": "Q228636"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q193168",
+    "item1Qid": "Q193168",
+    "p": "http://www.wikidata.org/prop/direct/P155",
+    "item2": "http://www.wikidata.org/entity/Q192630",
+    "item2Qid": "Q192630",
+    "item1Label": "настоящее время",
+    "propLabel": "предыдущее по порядку",
+    "item2Label": "прошедшее время"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q309100",
+    "item1Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P3095",
+    "item2": "http://www.wikidata.org/entity/Q20481199",
+    "item2Qid": "Q20481199",
+    "item1Label": "планирование",
+    "propLabel": "практикуется",
+    "item2Label": "координатор"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q309100",
+    "item1Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item2": "http://www.wikidata.org/entity/Q116505632",
+    "item2Qid": "Q116505632",
+    "item1Label": "планирование",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "тип процесса"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P1889",
+    "item2": "http://www.wikidata.org/entity/Q12322185",
+    "item2Qid": "Q12322185",
+    "item1Label": "время",
+    "propLabel": "не путать с",
+    "item2Label": "время"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q276258",
+    "item1Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P156",
+    "item2": "http://www.wikidata.org/entity/Q719723",
+    "item2Qid": "Q719723",
+    "item1Label": "детство",
+    "propLabel": "следующее по порядку",
+    "item2Label": "предподростковый возраст"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P1299",
+    "item2": "http://www.wikidata.org/entity/Q131628764",
+    "item2Qid": "Q131628764",
+    "item1Label": "время",
+    "propLabel": "изображается на/в",
+    "item2Label": "The Triumph of Time"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q276258",
+    "item1Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P156",
+    "item2": "http://www.wikidata.org/entity/Q131774",
+    "item2Qid": "Q131774",
+    "item1Label": "детство",
+    "propLabel": "следующее по порядку",
+    "item2Label": "подростковый возраст"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P1299",
+    "item2": "http://www.wikidata.org/entity/Q131937093",
+    "item2Qid": "Q131937093",
+    "item1Label": "время",
+    "propLabel": "изображается на/в",
+    "item2Label": "Time, Venus and Love"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q492",
+    "item1Qid": "Q492",
+    "p": "http://www.wikidata.org/prop/direct/P1424",
+    "item2": "http://www.wikidata.org/entity/Q10703806",
+    "item2Qid": "Q10703806",
+    "item1Label": "память",
+    "propLabel": "основной шаблон по теме",
+    "item2Label": "Q10703806"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P361",
+    "item2": "http://www.wikidata.org/entity/Q133327",
+    "item2Qid": "Q133327",
+    "item1Label": "время",
+    "propLabel": "является частью",
+    "item2Label": "пространство-время"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q131774",
+    "item1Qid": "Q131774",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q867541",
+    "item2Qid": "Q867541",
+    "item1Label": "подростковый возраст",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Британская энциклопедия, 1910—1911"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q309100",
+    "item1Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item2": "http://www.wikidata.org/entity/Q205961",
+    "item2Qid": "Q205961",
+    "item1Label": "планирование",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "умение"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q276258",
+    "item1Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item2": "http://www.wikidata.org/entity/Q1406161",
+    "item2Qid": "Q1406161",
+    "item1Label": "детство",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "тема произведения искусства"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P527",
+    "item2": "http://www.wikidata.org/entity/Q186081",
+    "item2Qid": "Q186081",
+    "item1Label": "время",
+    "propLabel": "состоит из",
+    "item2Label": "интервал времени"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q309100",
+    "item1Qid": "Q309100",
+    "p": "http://www.wikidata.org/prop/direct/P1056",
+    "item2": "http://www.wikidata.org/entity/Q104637332",
+    "item2Qid": "Q104637332",
+    "item1Label": "планирование",
+    "propLabel": "продукция",
+    "item2Label": "запланированный процесс"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q61070632",
+    "item2Qid": "Q61070632",
+    "item1Label": "время",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Basque Literature Terms Dictionary"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P2579",
+    "item2": "http://www.wikidata.org/entity/Q186857",
+    "item2Qid": "Q186857",
+    "item1Label": "время",
+    "propLabel": "изучается в",
+    "item2Label": "социология времени"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q223642",
+    "item1Qid": "Q223642",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q867541",
+    "item2Qid": "Q867541",
+    "item1Label": "межличностные отношения",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Британская энциклопедия, 1910—1911"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q11471",
+    "item1Qid": "Q11471",
+    "p": "http://www.wikidata.org/prop/direct/P2579",
+    "item2": "http://www.wikidata.org/entity/Q1754940",
+    "item2Qid": "Q1754940",
+    "item1Label": "время",
+    "propLabel": "изучается в",
+    "item2Label": "философия пространства-времени"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q192630",
+    "item1Qid": "Q192630",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item2": "http://www.wikidata.org/entity/Q26907166",
+    "item2Qid": "Q26907166",
+    "item1Label": "прошедшее время",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "временная сущность"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q276258",
+    "item1Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item2": "http://www.wikidata.org/entity/Q185836",
+    "item2Qid": "Q185836",
+    "item1Label": "детство",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "возраст человека"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q193168",
+    "item1Qid": "Q193168",
+    "p": "http://www.wikidata.org/prop/direct/P910",
+    "item2": "http://www.wikidata.org/entity/Q9658524",
+    "item2Qid": "Q9658524",
+    "item1Label": "настоящее время",
+    "propLabel": "общая категория по теме",
+    "item2Label": "Категория:Настоящее"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q276258",
+    "item1Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P5008",
+    "item2": "http://www.wikidata.org/entity/Q6173448",
+    "item2Qid": "Q6173448",
+    "item1Label": "детство",
+    "propLabel": "рабочий список проекта Викимедиа",
+    "item2Label": "Википедия:Список статей, которые должны быть во всех языковых версиях/10000"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q330104",
+    "item1Qid": "Q330104",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q2041543",
+    "item2Qid": "Q2041543",
+    "item1Label": "Прокрастинация",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Научная энциклопедия Отто"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q276258",
+    "item1Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P2670",
+    "item2": "http://www.wikidata.org/entity/Q7569",
+    "item2Qid": "Q7569",
+    "item1Label": "детство",
+    "propLabel": "состоит из представителей класса",
+    "item2Label": "ребёнок"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q276258",
+    "item1Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P1343",
+    "item2": "http://www.wikidata.org/entity/Q3351707",
+    "item2Qid": "Q3351707",
+    "item1Label": "детство",
+    "propLabel": "описывается в источнике",
+    "item2Label": "Pax Leksikon"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q355217",
+    "item1Qid": "Q355217",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item2": "http://www.wikidata.org/entity/Q7535186",
+    "item2Qid": "Q7535186",
+    "item1Label": "управление временем",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "профессиональный навык"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q276258",
+    "item1Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P910",
+    "item2": "http://www.wikidata.org/entity/Q8913288",
+    "item2Qid": "Q8913288",
+    "item1Label": "детство",
+    "propLabel": "общая категория по теме",
+    "item2Label": "Категория:Детство"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q330104",
+    "item1Qid": "Q330104",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item2": "http://www.wikidata.org/entity/Q9332",
+    "item2Qid": "Q9332",
+    "item1Label": "Прокрастинация",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "поведение"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q330104",
+    "item1Qid": "Q330104",
+    "p": "http://www.wikidata.org/prop/direct/P279",
+    "item2": "http://www.wikidata.org/entity/Q111016707",
+    "item2Qid": "Q111016707",
+    "item1Label": "Прокрастинация",
+    "propLabel": "подкласс от",
+    "item2Label": "избегание"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q355217",
+    "item1Qid": "Q355217",
+    "p": "http://www.wikidata.org/prop/direct/P279",
+    "item2": "http://www.wikidata.org/entity/Q2267710",
+    "item2Qid": "Q2267710",
+    "item1Label": "управление временем",
+    "propLabel": "подкласс от",
+    "item2Label": "self-management"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q355217",
+    "item1Qid": "Q355217",
+    "p": "http://www.wikidata.org/prop/direct/P361",
+    "item2": "http://www.wikidata.org/entity/Q309100",
+    "item2Qid": "Q309100",
+    "item1Label": "управление временем",
+    "propLabel": "является частью",
+    "item2Label": "планирование"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q276258",
+    "item1Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P828",
+    "item2": "http://www.wikidata.org/entity/Q34581",
+    "item2Qid": "Q34581",
+    "item1Label": "детство",
+    "propLabel": "причиной является",
+    "item2Label": "роды у человека"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q276258",
+    "item1Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P2579",
+    "item2": "http://www.wikidata.org/entity/Q113884118",
+    "item2Qid": "Q113884118",
+    "item1Label": "детство",
+    "propLabel": "изучается в",
+    "item2Label": "sociology of childhood"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q330104",
+    "item1Qid": "Q330104",
+    "p": "http://www.wikidata.org/prop/direct/P461",
+    "item2": "http://www.wikidata.org/entity/Q112303676",
+    "item2Qid": "Q112303676",
+    "item1Label": "Прокрастинация",
+    "propLabel": "противоположно",
+    "item2Label": "прекрастинация"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q330104",
+    "item1Qid": "Q330104",
+    "p": "http://www.wikidata.org/prop/direct/P279",
+    "item2": "http://www.wikidata.org/entity/Q136469137",
+    "item2Qid": "Q136469137",
+    "item1Label": "Прокрастинация",
+    "propLabel": "подкласс от",
+    "item2Label": "delaying"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q330104",
+    "item1Qid": "Q330104",
+    "p": "http://www.wikidata.org/prop/direct/P279",
+    "item2": "http://www.wikidata.org/entity/Q1121708",
+    "item2Qid": "Q1121708",
+    "item1Label": "Прокрастинация",
+    "propLabel": "подкласс от",
+    "item2Label": "сбой"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q330104",
+    "item1Qid": "Q330104",
+    "p": "http://www.wikidata.org/prop/direct/P1542",
+    "item2": "http://www.wikidata.org/entity/Q1121708",
+    "item2Qid": "Q1121708",
+    "item1Label": "Прокрастинация",
+    "propLabel": "вызывает",
+    "item2Label": "сбой"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q276258",
+    "item1Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P279",
+    "item2": "http://www.wikidata.org/entity/Q1190554",
+    "item2Qid": "Q1190554",
+    "item1Label": "детство",
+    "propLabel": "подкласс от",
+    "item2Label": "событие"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q330104",
+    "item1Qid": "Q330104",
+    "p": "http://www.wikidata.org/prop/direct/P1479",
+    "item2": "http://www.wikidata.org/entity/Q2184645",
+    "item2Qid": "Q2184645",
+    "item1Label": "Прокрастинация",
+    "propLabel": "способствовавшим фактором является",
+    "item2Label": "дефицит"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q330104",
+    "item1Qid": "Q330104",
+    "p": "http://www.wikidata.org/prop/direct/P2283",
+    "item2": "http://www.wikidata.org/entity/Q1914636",
+    "item2Qid": "Q1914636",
+    "item1Label": "Прокрастинация",
+    "propLabel": "использует",
+    "item2Label": "деятельность"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q276258",
+    "item1Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P527",
+    "item2": "http://www.wikidata.org/entity/Q3377398",
+    "item2Qid": "Q3377398",
+    "item1Label": "детство",
+    "propLabel": "состоит из",
+    "item2Label": "раннее детство"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q330104",
+    "item1Qid": "Q330104",
+    "p": "http://www.wikidata.org/prop/direct/P1552",
+    "item2": "http://www.wikidata.org/entity/Q4338318",
+    "item2Qid": "Q4338318",
+    "item1Label": "Прокрастинация",
+    "propLabel": "обладает свойством",
+    "item2Label": "осознанность"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q276258",
+    "item1Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P1889",
+    "item2": "http://www.wikidata.org/entity/Q1766899",
+    "item2Qid": "Q1766899",
+    "item1Label": "детство",
+    "propLabel": "не путать с",
+    "item2Label": "Детство"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q355217",
+    "item1Qid": "Q355217",
+    "p": "http://www.wikidata.org/prop/direct/P31",
+    "item2": "http://www.wikidata.org/entity/Q205961",
+    "item2Qid": "Q205961",
+    "item1Label": "управление временем",
+    "propLabel": "это частный случай понятия",
+    "item2Label": "умение"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q276258",
+    "item1Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P461",
+    "item2": "http://www.wikidata.org/entity/Q3365007",
+    "item2Qid": "Q3365007",
+    "item1Label": "детство",
+    "propLabel": "противоположно",
+    "item2Label": "родительство"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q355217",
+    "item1Qid": "Q355217",
+    "p": "http://www.wikidata.org/prop/direct/P527",
+    "item2": "http://www.wikidata.org/entity/Q20183379",
+    "item2Qid": "Q20183379",
+    "item1Label": "управление временем",
+    "propLabel": "состоит из",
+    "item2Label": "Матрица Эйзенхауэра"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q330104",
+    "item1Qid": "Q330104",
+    "p": "http://www.wikidata.org/prop/direct/P1479",
+    "item2": "http://www.wikidata.org/entity/Q181923",
+    "item2Qid": "Q181923",
+    "item1Label": "Прокрастинация",
+    "propLabel": "способствовавшим фактором является",
+    "item2Label": "синдром дефицита внимания и гиперактивности"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q276258",
+    "item1Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P2579",
+    "item2": "http://www.wikidata.org/entity/Q175002",
+    "item2Qid": "Q175002",
+    "item1Label": "детство",
+    "propLabel": "изучается в",
+    "item2Label": "психология развития"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q330104",
+    "item1Qid": "Q330104",
+    "p": "http://www.wikidata.org/prop/direct/P2283",
+    "item2": "http://www.wikidata.org/entity/Q3030775",
+    "item2Qid": "Q3030775",
+    "item1Label": "Прокрастинация",
+    "propLabel": "использует",
+    "item2Label": "отвлечение внимания"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q330104",
+    "item1Qid": "Q330104",
+    "p": "http://www.wikidata.org/prop/direct/P1542",
+    "item2": "http://www.wikidata.org/entity/Q3500368",
+    "item2Qid": "Q3500368",
+    "item1Label": "Прокрастинация",
+    "propLabel": "вызывает",
+    "item2Label": "психологический стресс"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q330104",
+    "item1Qid": "Q330104",
+    "p": "http://www.wikidata.org/prop/direct/P1479",
+    "item2": "http://www.wikidata.org/entity/Q3500368",
+    "item2Qid": "Q3500368",
+    "item1Label": "Прокрастинация",
+    "propLabel": "способствовавшим фактором является",
+    "item2Label": "психологический стресс"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q276258",
+    "item1Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P2184",
+    "item2": "http://www.wikidata.org/entity/Q4204823",
+    "item2Qid": "Q4204823",
+    "item1Label": "детство",
+    "propLabel": "история темы",
+    "item2Label": "история детства"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q276258",
+    "item1Qid": "Q276258",
+    "p": "http://www.wikidata.org/prop/direct/P1889",
+    "item2": "http://www.wikidata.org/entity/Q47508159",
+    "item2Qid": "Q47508159",
+    "item1Label": "детство",
+    "propLabel": "не путать с",
+    "item2Label": "Childhood"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q355217",
+    "item1Qid": "Q355217",
+    "p": "http://www.wikidata.org/prop/direct/P910",
+    "item2": "http://www.wikidata.org/entity/Q7483177",
+    "item2Qid": "Q7483177",
+    "item1Label": "управление временем",
+    "propLabel": "общая категория по теме",
+    "item2Label": "Категория:Управление временем"
+  },
+  {
+    "item1": "http://www.wikidata.org/entity/Q330104",
+    "item1Qid": "Q330104",
+    "p": "http://www.wikidata.org/prop/direct/P1542",
+    "item2": "http://www.wikidata.org/entity/Q862147",
+    "item2Qid": "Q862147",
+    "item1Label": "Прокрастинация",
+    "propLabel": "вызывает",
+    "item2Label": "зубрёжка перед экзаменом"
+  }
+]

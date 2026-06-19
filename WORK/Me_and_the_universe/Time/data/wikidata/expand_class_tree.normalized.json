@@ -1,0 +1,1352 @@
+[
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q58682755",
+    "relatedQid": "Q58682755",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "advertising planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q108731064",
+    "relatedQid": "Q108731064",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "route planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q65177701",
+    "relatedQid": "Q65177701",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "Зонирование"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q65209002",
+    "relatedQid": "Q65209002",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "incident response planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q2312420",
+    "relatedQid": "Q2312420",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "study planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q2334061",
+    "relatedQid": "Q2334061",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "планирование эксперимента"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q4681438",
+    "relatedQid": "Q4681438",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "Q4681438"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q119230233",
+    "relatedQid": "Q119230233",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "планирование в области культуры"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q7216332",
+    "relatedQid": "Q7216332",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "прогностика"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q13138136",
+    "relatedQid": "Q13138136",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "городская среда"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q330104",
+    "seedQid": "Q330104",
+    "related": "http://www.wikidata.org/entity/Q4924364",
+    "relatedQid": "Q4924364",
+    "relation": "subclass of",
+    "seedLabel": "Прокрастинация",
+    "relatedLabel": "Синдром студента"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q119340203",
+    "relatedQid": "Q119340203",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "планирование развития"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q100230849",
+    "relatedQid": "Q100230849",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "town and country planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q119426464",
+    "relatedQid": "Q119426464",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "планирование науки"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q119465881",
+    "relatedQid": "Q119465881",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "tourism planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q119502668",
+    "relatedQid": "Q119502668",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "сельское планирование"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q12062721",
+    "relatedQid": "Q12062721",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "CSRP"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q123130234",
+    "relatedQid": "Q123130234",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "water planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q3761395",
+    "relatedQid": "Q3761395",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "career management"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q3420088",
+    "relatedQid": "Q3420088",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "рацион"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q6031259",
+    "relatedQid": "Q6031259",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "Information technology planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q137838254",
+    "relatedQid": "Q137838254",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "habit tracking"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q3907287",
+    "relatedQid": "Q3907287",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "policy making"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q56410189",
+    "relatedQid": "Q56410189",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "postmodern planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q6089252",
+    "relatedQid": "Q6089252",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "no-build alternative"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q19841949",
+    "relatedQid": "Q19841949",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "infrastructure planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q6941128",
+    "relatedQid": "Q6941128",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "museum planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q3902023",
+    "relatedQid": "Q3902023",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "планирование в области передачи информации и связи"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q130752662",
+    "relatedQid": "Q130752662",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "production planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q17058518",
+    "relatedQid": "Q17058518",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "interpretive planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q101580048",
+    "relatedQid": "Q101580048",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "campaign planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q114180081",
+    "relatedQid": "Q114180081",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "long-term planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q28135926",
+    "relatedQid": "Q28135926",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "communicative planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q11423681",
+    "relatedQid": "Q11423681",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "infrastructure planning studies"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q2333529",
+    "relatedQid": "Q2333529",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "Q2333529"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q15808187",
+    "relatedQid": "Q15808187",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "Q15808187"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q5283878",
+    "relatedQid": "Q5283878",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "dive planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q131447813",
+    "relatedQid": "Q131447813",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "long-horizon planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q131452827",
+    "relatedQid": "Q131452827",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "hierarchical search"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q131452884",
+    "relatedQid": "Q131452884",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "path planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q131452956",
+    "relatedQid": "Q131452956",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "re-planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q5156258",
+    "relatedQid": "Q5156258",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "compensation"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q3391448",
+    "relatedQid": "Q3391448",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "экономическое планирование"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q20553319",
+    "relatedQid": "Q20553319",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "Территориальное планирование"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q5377181",
+    "relatedQid": "Q5377181",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "energy planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q5400688",
+    "relatedQid": "Q5400688",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "Имущественное планирование"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q3458152",
+    "relatedQid": "Q3458152",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "backward planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q15809223",
+    "relatedQid": "Q15809223",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "timetable construction"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q117767725",
+    "relatedQid": "Q117767725",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "documentation planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q2498490",
+    "relatedQid": "Q2498490",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "corporate planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q20828672",
+    "relatedQid": "Q20828672",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "Q20828672"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q11606388",
+    "relatedQid": "Q11606388",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "corporate planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q54806642",
+    "relatedQid": "Q54806642",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "отмена"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q2755138",
+    "relatedQid": "Q2755138",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "birth planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q4449452",
+    "relatedQid": "Q4449452",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "планирование навигационного перехода"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q18419461",
+    "relatedQid": "Q18419461",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "didactic sequence"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q330104",
+    "seedQid": "Q330104",
+    "related": "http://www.wikidata.org/entity/Q5583777",
+    "relatedQid": "Q5583777",
+    "relation": "subclass of",
+    "seedLabel": "Прокрастинация",
+    "relatedLabel": "Goofing off"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q330104",
+    "seedQid": "Q330104",
+    "related": "http://www.wikidata.org/entity/Q105954341",
+    "relatedQid": "Q105954341",
+    "relation": "subclass of",
+    "seedLabel": "Прокрастинация",
+    "relatedLabel": "Прокрастинация в ущерб сну"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q118213224",
+    "relatedQid": "Q118213224",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "industrial planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q118248041",
+    "relatedQid": "Q118248041",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "library planning"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q309100",
+    "seedQid": "Q309100",
+    "related": "http://www.wikidata.org/entity/Q118303052",
+    "relatedQid": "Q118303052",
+    "relation": "subclass of",
+    "seedLabel": "планирование",
+    "relatedLabel": "планирование использования рабочей силы"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q193168",
+    "seedQid": "Q193168",
+    "related": "http://www.wikidata.org/entity/Q113469622",
+    "relatedQid": "Q113469622",
+    "relation": "subclass of",
+    "seedLabel": "настоящее время",
+    "relatedLabel": "this week"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q11337567",
+    "relatedQid": "Q11337567",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "рабочая память"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q5165163",
+    "relatedQid": "Q5165163",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "context-dependent memory"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q347066",
+    "relatedQid": "Q347066",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "реальное время"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q36980955",
+    "relatedQid": "Q36980955",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "narrative time"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q7663751",
+    "relatedQid": "Q7663751",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "Системные часы"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q16543382",
+    "relatedQid": "Q16543382",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "completion time"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q916150",
+    "relatedQid": "Q916150",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "Проспективная память"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q230100",
+    "relatedQid": "Q230100",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "на кончике языка"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q344",
+    "seedQid": "Q344",
+    "related": "http://www.wikidata.org/entity/Q113517952",
+    "relatedQid": "Q113517952",
+    "relation": "subclass of",
+    "seedLabel": "будущее",
+    "relatedLabel": "next month"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q344",
+    "seedQid": "Q344",
+    "related": "http://www.wikidata.org/entity/Q113540978",
+    "relatedQid": "Q113540978",
+    "relation": "subclass of",
+    "seedLabel": "будущее",
+    "relatedLabel": "week after the next"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q12541457",
+    "relatedQid": "Q12541457",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "Döp"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q1020027",
+    "relatedQid": "Q1020027",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "Trading day"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q193168",
+    "seedQid": "Q193168",
+    "related": "http://www.wikidata.org/entity/Q12048317",
+    "relatedQid": "Q12048317",
+    "relation": "subclass of",
+    "seedLabel": "настоящее время",
+    "relatedLabel": "presence"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q386001",
+    "relatedQid": "Q386001",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "Эйдетизм"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q193168",
+    "seedQid": "Q193168",
+    "related": "http://www.wikidata.org/entity/Q3151690",
+    "relatedQid": "Q3151690",
+    "relation": "subclass of",
+    "seedLabel": "настоящее время",
+    "relatedLabel": "сегодня"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q223642",
+    "seedQid": "Q223642",
+    "related": "http://www.wikidata.org/entity/Q188790",
+    "relatedQid": "Q188790",
+    "relation": "subclass of",
+    "seedLabel": "межличностные отношения",
+    "relatedLabel": "конкубинат"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q1486532",
+    "relatedQid": "Q1486532",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "GPS time"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q223642",
+    "seedQid": "Q223642",
+    "related": "http://www.wikidata.org/entity/Q184211",
+    "relatedQid": "Q184211",
+    "relation": "subclass of",
+    "seedLabel": "межличностные отношения",
+    "relatedLabel": "моногамия"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q5130779",
+    "relatedQid": "Q5130779",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "Q5130779"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q13197433",
+    "relatedQid": "Q13197433",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "Rancata"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q7806612",
+    "relatedQid": "Q7806612",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "временная линия"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q1493532",
+    "relatedQid": "Q1493532",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "power reserve"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q193168",
+    "seedQid": "Q193168",
+    "related": "http://www.wikidata.org/entity/Q17134047",
+    "relatedQid": "Q17134047",
+    "relation": "subclass of",
+    "seedLabel": "настоящее время",
+    "relatedLabel": "текущий день"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q223642",
+    "seedQid": "Q223642",
+    "related": "http://www.wikidata.org/entity/Q382798",
+    "relatedQid": "Q382798",
+    "relation": "subclass of",
+    "seedLabel": "межличностные отношения",
+    "relatedLabel": "Committed relationship"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q177453",
+    "relatedQid": "Q177453",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "residence time"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q3560550",
+    "relatedQid": "Q3560550",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "пространственная память"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q223642",
+    "seedQid": "Q223642",
+    "related": "http://www.wikidata.org/entity/Q27249",
+    "relatedQid": "Q27249",
+    "relation": "subclass of",
+    "seedLabel": "межличностные отношения",
+    "relatedLabel": "Гражданский договор солидарности"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q192630",
+    "seedQid": "Q192630",
+    "related": "http://www.wikidata.org/entity/Q125968071",
+    "relatedQid": "Q125968071",
+    "relation": "subclass of",
+    "seedLabel": "прошедшее время",
+    "relatedLabel": "last week"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q193168",
+    "seedQid": "Q193168",
+    "related": "http://www.wikidata.org/entity/Q124842747",
+    "relatedQid": "Q124842747",
+    "relation": "subclass of",
+    "seedLabel": "настоящее время",
+    "relatedLabel": "this time"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q1080996",
+    "relatedQid": "Q1080996",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "сенсорная память"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q1968542",
+    "relatedQid": "Q1968542",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "сталийное время"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q5447288",
+    "relatedQid": "Q5447288",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "жизненный цикл продукта"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q1986022",
+    "relatedQid": "Q1986022",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "Время Ч"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q223642",
+    "seedQid": "Q223642",
+    "related": "http://www.wikidata.org/entity/Q736922",
+    "relatedQid": "Q736922",
+    "relation": "subclass of",
+    "seedLabel": "межличностные отношения",
+    "relatedLabel": "интимные отношения"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q7962640",
+    "relatedQid": "Q7962640",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "wall-clock time"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q6146512",
+    "relatedQid": "Q6146512",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "propagation time"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q344",
+    "relatedQid": "Q344",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "будущее"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q254217",
+    "relatedQid": "Q254217",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "коллективная память"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q2527923",
+    "relatedQid": "Q2527923",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "время Ляпунова"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q223642",
+    "seedQid": "Q223642",
+    "related": "http://www.wikidata.org/entity/Q171318",
+    "relatedQid": "Q171318",
+    "relation": "subclass of",
+    "seedLabel": "межличностные отношения",
+    "relatedLabel": "родство"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q7447782",
+    "relatedQid": "Q7447782",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "selective retention"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q4135208",
+    "relatedQid": "Q4135208",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "time of arrival"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q25424450",
+    "relatedQid": "Q25424450",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "extra time"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q638827",
+    "relatedQid": "Q638827",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "symmetry minute"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q2051704",
+    "relatedQid": "Q2051704",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "парамнезия"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q117001278",
+    "relatedQid": "Q117001278",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "graduation time"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q12203484",
+    "relatedQid": "Q12203484",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "local time"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q344",
+    "seedQid": "Q344",
+    "related": "http://www.wikidata.org/entity/Q5510835",
+    "relatedQid": "Q5510835",
+    "relation": "subclass of",
+    "seedLabel": "будущее",
+    "relatedLabel": "будущее математики"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q223642",
+    "seedQid": "Q223642",
+    "related": "http://www.wikidata.org/entity/Q427173",
+    "relatedQid": "Q427173",
+    "relation": "subclass of",
+    "seedLabel": "межличностные отношения",
+    "relatedLabel": "Бостонский брак"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q344",
+    "seedQid": "Q344",
+    "related": "http://www.wikidata.org/entity/Q18354756",
+    "relatedQid": "Q18354756",
+    "relation": "subclass of",
+    "seedLabel": "будущее",
+    "relatedLabel": "далёкое будущее"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q7124679",
+    "relatedQid": "Q7124679",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "Оплачиваемый отпуск"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q97010218",
+    "relatedQid": "Q97010218",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "crystallization time"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q344",
+    "seedQid": "Q344",
+    "related": "http://www.wikidata.org/entity/Q124854763",
+    "relatedQid": "Q124854763",
+    "relation": "subclass of",
+    "seedLabel": "будущее",
+    "relatedLabel": "наступающая ночь"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q22676729",
+    "relatedQid": "Q22676729",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "время по регионам"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q108923202",
+    "relatedQid": "Q108923202",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "fear memory"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q28130149",
+    "relatedQid": "Q28130149",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "Экранное время"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q136786005",
+    "relatedQid": "Q136786005",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "Selective memory"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q138639822",
+    "relatedQid": "Q138639822",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "Xiaomi Watch"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q223642",
+    "seedQid": "Q223642",
+    "related": "http://www.wikidata.org/entity/Q491",
+    "relatedQid": "Q491",
+    "relation": "subclass of",
+    "seedLabel": "межличностные отношения",
+    "relatedLabel": "дружба"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q223642",
+    "seedQid": "Q223642",
+    "related": "http://www.wikidata.org/entity/Q257356",
+    "relatedQid": "Q257356",
+    "relation": "subclass of",
+    "seedLabel": "межличностные отношения",
+    "relatedLabel": "hanky-panky"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q398085",
+    "relatedQid": "Q398085",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "эон"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q193168",
+    "seedQid": "Q193168",
+    "related": "http://www.wikidata.org/entity/Q3151694",
+    "relatedQid": "Q3151694",
+    "relation": "subclass of",
+    "seedLabel": "настоящее время",
+    "relatedLabel": "Q3151694"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q69905337",
+    "relatedQid": "Q69905337",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "retention"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q2675808",
+    "relatedQid": "Q2675808",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "Время удержания"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q344",
+    "seedQid": "Q344",
+    "related": "http://www.wikidata.org/entity/Q41617596",
+    "relatedQid": "Q41617596",
+    "relation": "subclass of",
+    "seedLabel": "будущее",
+    "relatedLabel": "будущее человечества"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q2692909",
+    "relatedQid": "Q2692909",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "Q2692909"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q25339939",
+    "relatedQid": "Q25339939",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "associative memory"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q344",
+    "seedQid": "Q344",
+    "related": "http://www.wikidata.org/entity/Q92136810",
+    "relatedQid": "Q92136810",
+    "relation": "subclass of",
+    "seedLabel": "будущее",
+    "relatedLabel": "ближайшее будущее"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q4907779",
+    "relatedQid": "Q4907779",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "bilingual memory"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q409227",
+    "relatedQid": "Q409227",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "air-time"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q193168",
+    "seedQid": "Q193168",
+    "related": "http://www.wikidata.org/entity/Q124854771",
+    "relatedQid": "Q124854771",
+    "relation": "subclass of",
+    "seedLabel": "настоящее время",
+    "relatedLabel": "сегодня ночью"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q18603",
+    "relatedQid": "Q18603",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "declarative memory"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q18601",
+    "relatedQid": "Q18601",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "долговременная память"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q18599",
+    "relatedQid": "Q18599",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "кратковременная память"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q67181652",
+    "relatedQid": "Q67181652",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "broadcasting time"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q18646",
+    "relatedQid": "Q18646",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "Эпизодическая память"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q6822984",
+    "relatedQid": "Q6822984",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "metamemory"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q12049329",
+    "relatedQid": "Q12049329",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "Q12049329"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q21012007",
+    "relatedQid": "Q21012007",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "Q21012007"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q56298247",
+    "relatedQid": "Q56298247",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "source memory"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q223642",
+    "seedQid": "Q223642",
+    "related": "http://www.wikidata.org/entity/Q41075",
+    "relatedQid": "Q41075",
+    "relation": "subclass of",
+    "seedLabel": "межличностные отношения",
+    "relatedLabel": "гражданское партнёрство"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q25598946",
+    "relatedQid": "Q25598946",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "Q25598946"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q186566",
+    "relatedQid": "Q186566",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "хронологический порядок"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q344",
+    "seedQid": "Q344",
+    "related": "http://www.wikidata.org/entity/Q113540972",
+    "relatedQid": "Q113540972",
+    "relation": "subclass of",
+    "seedLabel": "будущее",
+    "relatedLabel": "next week"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q11471",
+    "seedQid": "Q11471",
+    "related": "http://www.wikidata.org/entity/Q18410979",
+    "relatedQid": "Q18410979",
+    "relation": "subclass of",
+    "seedLabel": "время",
+    "relatedLabel": "regular trading hours"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q223642",
+    "seedQid": "Q223642",
+    "related": "http://www.wikidata.org/entity/Q209041",
+    "relatedQid": "Q209041",
+    "relation": "subclass of",
+    "seedLabel": "межличностные отношения",
+    "relatedLabel": "платоническая любовь"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q7920941",
+    "relatedQid": "Q7920941",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "verbal memory"
+  },
+  {
+    "seed": "http://www.wikidata.org/entity/Q492",
+    "seedQid": "Q492",
+    "related": "http://www.wikidata.org/entity/Q7936607",
+    "relatedQid": "Q7936607",
+    "relation": "subclass of",
+    "seedLabel": "память",
+    "relatedLabel": "зрительная память"
+  }
+]

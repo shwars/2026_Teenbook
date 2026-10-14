@@ -1,0 +1,24 @@
+{
+  "concepts": [
+    {
+      "name": "Что будет после школы",
+      "file": "what-comes-after-school.md"
+    },
+    {
+      "name": "Страх не найти работу",
+      "file": "fear-of-not-finding-job.md"
+    },
+    {
+      "name": "Как жить, когда нет четкого плана",
+      "file": "how-to-live-without-plan.md"
+    },
+    {
+      "name": "Тревога о будущем — что помогает",
+      "file": "anxiety-about-the-future.md"
+    },
+    {
+      "name": "К кому идти за советом",
+      "file": "to-seek-advice.md"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "project": "Я и будущее (выбор пути): Страх неизвестности",
+  "source": "WikiData SPARQL endpoint",
+  "concepts": [
+    {
+      "concept": "https://www.wikidata.org/wiki/Q13649246",
+      "conceptLabel": "неизвестность",
+      "description": "отсутствие определённости"
+    },
+    {
+      "concept": "https://www.wikidata.org/wiki/Q44619",
+      "conceptLabel": "страх",
+      "description": "реакция на угрозу"
+    },
+    {
+      "concept": "https://www.wikidata.org/wiki/Q154430",
+      "conceptLabel": "тревога",
+      "description": "ожидание опасности"
+    },
+    {
+      "concept": "https://www.wikidata.org/wiki/Q18614415",
+      "conceptLabel": "избегание",
+      "description": "уклонение от неприятного"
+    },
+    {
+      "concept": "https://www.wikidata.org/wiki/Q58998540",
+      "conceptLabel": "Личный рост",
+      "description": "развитие личности"
+    }
+  ]
+}
